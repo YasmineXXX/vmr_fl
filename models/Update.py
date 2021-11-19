@@ -4,6 +4,20 @@ from torch.utils.data import DataLoader, Dataset
 from tqdm import tqdm
 import torch.nn.functional as F
 
+def get_iou(groundtruth, predict):
+    groundtruth_init = max(0,groundtruth[0])
+    groundtruth_end = groundtruth[1]
+    predict_init = max(0,predict[0])
+    predict_end = predict[1]
+    init_min = min(groundtruth_init,predict_init)
+    end_max = max(groundtruth_end,predict_end)
+    init_max = max(groundtruth_init,predict_init)
+    end_min = min(groundtruth_end,predict_end)
+    if end_min < init_max:
+        return 0
+    IOU = ( end_min - init_max ) * 1.0 / ( end_max - init_min)
+    return IOU
+
 class DatasetSplit(Dataset):
     def __init__(self, dataset, idxs):
         self.dataset = dataset
@@ -19,45 +33,48 @@ class DatasetSplit(Dataset):
 
 class LocalUpdate(object):
 
-    def __init__(self, args, dataset=None, idxs=None):
-        self.args = args
+    def __init__(self, config, number, dataset=None, idxs=None):
+        self.config = config
+        self.number = number
         self.selected_clients = []
-        self.datasetsplit = DatasetSplit(dataset, idxs)
-        self.sub_dataloader = DataLoader(DatasetSplit(dataset, idxs), batch_size=self.args.bsz, shuffle=True,
-                                         collate_fn=self.my_collate_fn, drop_last=True)
-        self.weight = args
+        # self.datasetsplit = DatasetSplit(dataset, idxs)
+        # self.sub_dataloader = DataLoader(DatasetSplit(dataset, idxs), batch_size=self.config.bsz, shuffle=True,
+        #                                  collate_fn=self.my_collate_fn, drop_last=True)
+        self.sub_dataloader = DataLoader(dataset, batch_size=self.config.bsz, shuffle=True,
+                                          collate_fn=self.my_collate_fn, drop_last=True, num_workers=4)
+        self.weight = config
 
     def train(self, net):
         net.train()
         # train and update
         optimizer = torch.optim.Adam(net.parameters(), lr=1e-3)
         epoch_loss = []
-        for _ in range(self.args.local_epoch):
+        des = 'user {:d} '.format(self.number)
+        for _ in range(self.config.local_epoch):
             batch_loss = []
             for i, batch in tqdm(enumerate(self.sub_dataloader),
-                                 desc="Training",
+                                 desc=des+"Training",
                                  total=len(self.sub_dataloader)):
-                text_feature = batch["query_tensor"].cuda(device=self.args.DEVICE_IDS[0])
+                text_feature = batch["query_tensor"].cuda(device=self.config.DEVICE_IDS[0])
                 # bsz, max_len, 300
-                visual_feature = batch['feature_tensor'].cuda(device=self.args.DEVICE_IDS[0])
+                visual_feature = batch['feature_tensor'].cuda(device=self.config.DEVICE_IDS[0])
                 # bsz, max_fms, 1024
                 fms_list = batch['fms_list']
                 len_list = batch['len_list']
 
                 score, index = net(visual_feature, text_feature, fms_list, len_list)
-                gt_score = torch.zeros((self.args.bsz, self.args.max_fms)).cuda(self.args.DEVICE_IDS[0])
-                gt_index = torch.zeros(self.args.bsz, 2).cuda(self.args.DEVICE_IDS[0])
-                s_idx = (batch['clip_start_frame'] // self.args.segment_duration).cuda(self.args.DEVICE_IDS[0])
-                e_idx = (batch['clip_end_frame'] // self.args.segment_duration).cuda(self.args.DEVICE_IDS[0])
-                for idx in range(self.args.bsz):
-                    gt_score[idx][int(s_idx[idx]):int(e_idx[idx])] = 1
-                    gt_index[idx][0] = batch['clip_start_second'][idx] / fms_list[idx]
-                    gt_index[idx][1] = batch['clip_end_second'][idx] / fms_list[idx]
-                loss_sc = F.binary_cross_entropy(score.squeeze(-1), gt_score)
-                loss_idx = F.mse_loss(index, gt_index)
-                # loss_idx = F.binary_cross_entropy(pre_ts.squeeze(-1), gt_ts) + F.binary_cross_entropy(pre_te.squeeze(-1), gt_te)
-
-                loss = loss_sc + self.args.lamda1 * loss_idx
+                gt_score = batch['gt_score'].cuda(device=self.config.DEVICE_IDS[0])
+                gt_index = batch['gt_index'].cuda(device=self.config.DEVICE_IDS[0])
+                weight_balance = 1e4
+                loss1 = F.binary_cross_entropy(score, gt_score, reduction='none').sum(dim=-1)
+                loss2 = torch.nn.MSELoss(reduction='none')(index, gt_index).sum(-1)
+                masks = torch.zeros(len(index)).float().cuda(self.config.DEVICE_IDS[0])
+                for i in range(len(masks)):
+                    iou = get_iou(index[i], gt_index[i])
+                    masks[i] = (1 - iou)
+                loss1 = loss1 * masks
+                loss2 = loss2 * masks
+                loss = torch.sum(loss1 * weight_balance + loss2) / len(gt_score)
 
                 optimizer.zero_grad()
                 loss.backward()
@@ -84,35 +101,26 @@ class LocalUpdate(object):
         len_list = [e['len'] for e in batch]
 
         batch_tensor = {}
-        batch_tensor['feature_tensor'] = torch.empty(self.args.bsz, self.args.max_fms, 1024)
+        batch_tensor['feature_tensor'] = torch.empty(self.config.bsz, self.config.max_fms, self.config.vdim)
         batch_tensor['video_name'] = []
-        batch_tensor['query_tensor'] = torch.empty(self.args.bsz, self.args.max_len, 300)
-        batch_tensor['start_frame'] = torch.empty(self.args.bsz)
-        batch_tensor['end_frame'] = torch.empty(self.args.bsz)
-        batch_tensor['clip_start_frame'] = torch.empty(self.args.bsz)
-        batch_tensor['clip_end_frame'] = torch.empty(self.args.bsz)
-        batch_tensor["clip_start_second"] = torch.empty(self.args.bsz)
-        batch_tensor["clip_end_second"] = torch.empty(self.args.bsz)
+        batch_tensor['query_tensor'] = torch.empty(self.config.bsz, self.config.max_len, self.config.sdim)
+        batch_tensor["clip_start_second"] = torch.empty(self.config.bsz)
+        batch_tensor["clip_end_second"] = torch.empty(self.config.bsz)
+        batch_tensor["duration"] = torch.empty(self.config.bsz)
+        batch_tensor["gt_score"] = torch.empty(self.config.bsz, self.config.max_fms)
+        batch_tensor["gt_index"] = torch.empty(self.config.bsz, 2)
         for i, video in enumerate(batch):
-            if video['feature_tensor'].shape[0] > self.args.max_fms:
-                step = video['feature_tensor'].shape[0] // self.args.max_fms
-                for new_fm, fm in enumerate(range(0, video['feature_tensor'].shape[0], step)):
-                    if new_fm >= self.args.max_fms:
-                        break
-                    batch_tensor['feature_tensor'][i][new_fm] = video['feature_tensor'][fm]
-            else:
-                batch_tensor['feature_tensor'][i] = F.pad(video['feature_tensor'], (0, 0, 0, self.args.max_fms - fms_list[i]))
+            batch_tensor['feature_tensor'][i] = torch.tensor(video['feature_tensor'])
             batch_tensor['video_name'].append(video['video_name'])
             batch_tensor['query_tensor'][i] = video['query_tensor']
-            batch_tensor['start_frame'][i] = video['start_frame']
-            batch_tensor['end_frame'][i] = video['end_frame']
-            batch_tensor['clip_start_frame'][i] = video['clip_start_frame']
-            batch_tensor['clip_end_frame'][i] = video['clip_end_frame']
             batch_tensor['clip_start_second'][i] = video['clip_start_second']
             batch_tensor['clip_end_second'][i] = video['clip_end_second']
+            batch_tensor["duration"][i] = video["duration"]
+            batch_tensor["gt_score"][i] = video["gt_score"]
+            batch_tensor["gt_index"][i] = video["gt_index"]
 
-        if max(fms_list) != self.args.max_fms:
-            fms_list[fms_list.index(max(fms_list))] = self.args.max_fms
+        if max(fms_list) != self.config.max_fms:
+            fms_list[fms_list.index(max(fms_list))] = self.config.max_fms
         batch_tensor['fms_list'] = fms_list
         batch_tensor['len_list'] = len_list
 

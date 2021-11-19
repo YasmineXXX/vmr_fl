@@ -7,23 +7,61 @@ import argparse, json, sys, time, copy
 from tqdm import tqdm
 from easydict import EasyDict as edict
 from torch.utils.data.dataloader import default_collate
+from ActivityNet_process import baseline_activity_dataset
+from ActivityNet_process import baseline_activity_dataset_i3d
 from Charades_STA_process import baseline_charades_dataset
+from TACoS_process import baseline_tacos_dataset
+from Baseline import Baseline
+from Baseline_cross_att import VideoConv
 from Baseline import Baseline
 from models.Update import LocalUpdate
 from models.Fed import FedAvg
 
-def get_pretraining_args():
+def get_training_args():
     desc = "shared config for pretraining and finetuning"
     parser = argparse.ArgumentParser(description=desc)
-    parser.add_argument("--feature_dir", type=str, help="eg: /data/wangyan/dataset/data/Charades/charades_i3d_rgb.hdf5",
-                        default="/data/wangyan/dataset/data/Charades/charades_i3d_rgb.hdf5")
-    parser.add_argument("--annotation_file", type=str, help="eg: ./Charades_STA_process/charades_annotations.txt",
-                        default="./Charades_STA_process/charades_annotations.txt")
-    parser.add_argument("--val_annotation_file", type=str, help="eg: ./Charades_STA_process/charades_annotations_test.txt",
-                        default="./Charades_STA_process/charades_annotations_test.txt")
-    parser.add_argument("--token", type=str, help="eg: /data/wangyan/Charades-STA/6B.300d.npy",
-                        default="/data/wangyan/Charades-STA/6B.300d.npy")
-    parser.add_argument("--result_dir", type=str, default="./result_fl",
+    # choose a dataset: charades or activitynet or tacos
+    dataset = "activitynet"
+    if dataset == "charades":
+        parser.add_argument("--dataset", type=str, help="dataset_args", default="charades")
+        parser.add_argument("--feature_dir", type=str, help="dataset_visual_feature_dir",
+                            default="/data/wangyan/dataset/data/Charades/charades_i3d_rgb.hdf5")
+        parser.add_argument("--annotation_file", type=str, help="dataset_information_dir",
+                            default="./Charades_STA_process/charades_annotations.txt")
+        parser.add_argument("--val_annotation_file", type=str, help="val_dataset_information_dir",
+                            default="./Charades_STA_process/charades_annotations_test.txt")
+        parser.add_argument("--vdim", type=int, help="visual feature hidden dim", default=1024)
+        parser.add_argument("--max_fms", type=int, help="visual feature input fms", default=100)
+    elif dataset == 'activitynet':
+        parser.add_argument("--dataset", type=str, help="dataset_args", default="activitynet")
+        parser.add_argument("--feature_dir", type=str, help="dataset_visual_feature_dir",
+                            default="/data/wangyan/dataset/data/activity/sub_activitynet_v1-3.c3d.hdf5")
+        # parser.add_argument("--feature_dir", type=str, help="dataset_visual_feature_dir",
+        #                     default="/data/wangyan/dataset/data/activity/i3d_feat_2048_100/")
+        parser.add_argument("--annotation_file", type=str, help="dataset_information_dir",
+                            default="./ActivityNet_process/activity_annotations.txt")
+        parser.add_argument("--val_annotation_file", type=str, help="val_dataset_information_dir",
+                            default="./ActivityNet_process/activity_annotations_val_1.txt")
+        parser.add_argument("--vdim", type=int, help="visual feature hidden dim", default=500)
+        parser.add_argument("--max_fms", type=int, help="visual feature input fms", default=300)
+    elif dataset == 'tacos':
+        parser.add_argument("--dataset", type=str, help="dataset_args", default="tacos")
+        parser.add_argument("--feature_dir", type=str, help="dataset_visual_feature_dir",
+                            default="/data/wangyan/dataset/data/Tacos/tacos_c3d_fc6_nonoverlap.hdf5")
+        parser.add_argument("--object_feature_dir", type=str, help="dataset_visual_feature_dir",
+                            default="/data/wangyan/SLTA/TACoS/TACoS_fastrcnn_pool_2048/train_data_pics_vec_pool/")
+        parser.add_argument("--annotation_file", type=str, help="dataset_information_dir",
+                            default="./TACoS_process/tacos_annotations.txt")
+        parser.add_argument("--val_annotation_file", type=str, help="val_dataset_information_dir",
+                            default="./TACoS_process/tacos_annotations_val.txt")
+        parser.add_argument("--vdim", type=int, help="visual feature hidden dim", default=4096)
+        parser.add_argument("--max_fms", type=int, help="visual feature input fms", default=200)
+        parser.add_argument("--odim", type=int, help="visual feature hidden dim", default=2048)
+    parser.add_argument("--token", type=str, help="glove path",
+                        default="/data/wangyan/dataset/data/6B.300d.npy")
+    # parser.add_argument("--token", type=str, help="bert path",
+    #                     default="./bert_feature/ActivityNet/activitynet_captions_bert_25_train.pkl")
+    parser.add_argument("--result_dir", type=str, default="./result_fl/",
         help="dir to store model checkpoints & training meta.")
     parser.add_argument("--best_train_model_file_name", type=str, default="/best_model.ckpt",
         help="best train model file name, don't forget a '/' ahead.")
@@ -40,7 +78,7 @@ def get_pretraining_args():
             setattr(args, k, v)
     return args
 
-config = get_pretraining_args()
+config = get_training_args()
 
 def my_collate_fn(batch):
     # input: a list of bsz dicts,
@@ -54,36 +92,39 @@ def my_collate_fn(batch):
     # 'clip_end_frame': tensor([165])
     # 'video_name': ('AO8RW',)
 
+
+    # s_idx = (batch['clip_start_frame']//config.segment_duration).cuda(config.DEVICE_IDS[0])
+    # e_idx = (batch['clip_end_frame']//config.segment_duration).cuda(config.DEVICE_IDS[0])
+
     fms_list = [e['fms'] for e in batch]
     len_list = [e['len'] for e in batch]
 
     batch_tensor = {}
-    batch_tensor['feature_tensor'] = torch.empty(config.bsz, config.max_fms, 1024)
+    batch_tensor['feature_tensor'] = torch.empty(config.bsz, config.max_fms, config.vdim)
     batch_tensor['video_name'] = []
-    batch_tensor['query_tensor'] = torch.empty(config.bsz, config.max_len, 300)
-    batch_tensor['start_frame'] = torch.empty(config.bsz)
-    batch_tensor['end_frame'] = torch.empty(config.bsz)
-    batch_tensor['clip_start_frame'] = torch.empty(config.bsz)
-    batch_tensor['clip_end_frame'] = torch.empty(config.bsz)
+    batch_tensor['query_tensor'] = torch.empty(config.bsz, config.max_len, config.sdim)
     batch_tensor["clip_start_second"] = torch.empty(config.bsz)
     batch_tensor["clip_end_second"] = torch.empty(config.bsz)
+    batch_tensor["duration"] = torch.empty(config.bsz)
+    batch_tensor["gt_score"] = torch.empty(config.bsz, config.max_fms)
+    batch_tensor["gt_index"] = torch.empty(config.bsz, 2)
     for i, video in enumerate(batch):
-        if video['feature_tensor'].shape[0] > config.max_fms:
-            step = video['feature_tensor'].shape[0] // config.max_fms
-            for new_fm, fm in enumerate(range(0, video['feature_tensor'].shape[0], step)):
-                if new_fm >= config.max_fms:
-                    break
-                batch_tensor['feature_tensor'][i][new_fm] = video['feature_tensor'][fm]
-        else:
-            batch_tensor['feature_tensor'][i] = F.pad(video['feature_tensor'], (0, 0, 0, config.max_fms-fms_list[i]))
+        # if video['feature_tensor'].shape[0] > config.max_fms:
+        #     step = video['feature_tensor'].shape[0] // config.max_fms
+        #     for new_fm, fm in enumerate(range(0, video['feature_tensor'].shape[0], step)):
+        #         if new_fm >= config.max_fms:
+        #             break
+        #         batch_tensor['feature_tensor'][i][new_fm] = video['feature_tensor'][fm]
+        # else:
+        #     batch_tensor['feature_tensor'][i] = F.pad(video['feature_tensor'], (0, 0, 0, config.max_fms-fms_list[i]))
+        batch_tensor['feature_tensor'][i] = torch.tensor(video['feature_tensor'])
         batch_tensor['video_name'].append(video['video_name'])
         batch_tensor['query_tensor'][i] = video['query_tensor']
-        batch_tensor['start_frame'][i] = video['start_frame']
-        batch_tensor['end_frame'][i] = video['end_frame']
-        batch_tensor['clip_start_frame'][i] = video['clip_start_frame']
-        batch_tensor['clip_end_frame'][i] = video['clip_end_frame']
         batch_tensor['clip_start_second'][i] = video['clip_start_second']
         batch_tensor['clip_end_second'][i] = video['clip_end_second']
+        batch_tensor["duration"][i] = video["duration"]
+        batch_tensor["gt_score"][i] = video["gt_score"]
+        batch_tensor["gt_index"][i] = video["gt_index"]
 
     if max(fms_list) != config.max_fms:
         fms_list[fms_list.index(max(fms_list))] = config.max_fms
@@ -92,15 +133,29 @@ def my_collate_fn(batch):
 
     return batch_tensor
 
-def get_iou(pred, gt):
-    intersection = max(0, min(pred[1], gt[1]) - max(pred[0], gt[0]))
-    union = max(pred[1], gt[1]) - min(pred[0], gt[0])
-    return float(intersection) / (union + 1e-6)
+# def get_iou(pred, gt):
+#     intersection = max(0, min(pred[1], gt[1]) - max(pred[0], gt[0]))
+#     union = max(pred[1], gt[1]) - min(pred[0], gt[0])
+#     return float(intersection) / (union + 1e-6)
+
+def get_iou(groundtruth, predict):
+    groundtruth_init = max(0,groundtruth[0])
+    groundtruth_end = groundtruth[1]
+    predict_init = max(0,predict[0])
+    predict_end = predict[1]
+    init_min = min(groundtruth_init,predict_init)
+    end_max = max(groundtruth_end,predict_end)
+    init_max = max(groundtruth_init,predict_init)
+    end_min = min(groundtruth_end,predict_end)
+    if end_min < init_max:
+        return 0
+    IOU = ( end_min - init_max ) * 1.0 / ( end_max - init_min)
+    return IOU
 
 def start_validation(val_loader, model, train_log_filepath, epoch):
     iou_value = []
-
-    acc_log_txt_formatter = "{time_str} [Epoch] {epoch:03d} [Accuracy] {acc:s}\n"
+    max_iou5 = 0.2
+    acc_log_txt_formatter = "{time_str} [Round] {epoch:03d} [Accuracy] {acc:s}\n"
     for i, batch in tqdm(enumerate(val_loader),
                          desc="Validation",
                          total=len(val_loader)):
@@ -116,17 +171,26 @@ def start_validation(val_loader, model, train_log_filepath, epoch):
         # for idx in range(config.bsz):
         #     pre_index[idx][0] = index[idx][0] * fms_list[idx]
         #     pre_index[idx][1] = index[idx][1] * fms_list[idx]
-        gt_index = torch.zeros(config.bsz, 2).cuda(config.DEVICE_IDS[0])
-        for idx in range(config.bsz):
-            gt_index[idx][0] = batch['clip_start_second'][idx] / fms_list[idx]
-            gt_index[idx][1] = batch['clip_end_second'][idx] / fms_list[idx]
+        # gt_index = torch.zeros(config.bsz, 2).cuda(config.DEVICE_IDS[0])
+        # for idx in range(config.bsz):
+        #     gt_index[idx][0] = batch['clip_start_second'][idx] / fms_list[idx]
+        #     gt_index[idx][1] = batch['clip_end_second'][idx] / fms_list[idx]
+        #
+        # index = index.detach().cpu().numpy()
+        # gt_index = gt_index.cpu().numpy()
+        #
+        # for i in range(config.bsz):
+        #     iou = get_iou(gt_index[i], index[i])
+        #     iou_value.append(iou)
 
         index = index.detach().cpu().numpy()
-        gt_index = gt_index.cpu().numpy()
-
-        for i in range(config.bsz):
-            iou = get_iou(gt_index[i], index[i])
-            iou_value.append(iou)
+        batch['duration'] = batch['duration'].cpu().numpy()
+        batch['clip_start_second'] = batch['clip_start_second'].cpu().numpy()
+        batch['clip_end_second'] = batch['clip_end_second'].cpu().numpy()
+        iou_batch = [get_iou(index[i] / model.time_steps * batch['duration'][i],
+                             (batch['clip_start_second'][i], batch['clip_end_second'][i]))
+                     for i in range(len(index))]
+        iou_value.extend(iou_batch)
 
     ious = np.array(iou_value)
     iou1 = np.average(ious > 0.1)
@@ -136,6 +200,12 @@ def start_validation(val_loader, model, train_log_filepath, epoch):
     iou9 = np.average(ious > 0.9)
     acc = "iou1:" + str(iou1) + ", iou3:" + str(iou3) + ", iou5:" + str(iou5) + ", iou7:" + str(iou7) + ", iou9:" + str(iou9)
 
+    if iou5 > max_iou5:
+        max_iou5 = iou5
+        checkpoint = {
+            "model_param": model.state_dict(),
+            "model_cfg": config}
+        torch.save(checkpoint, config.result_dir + "best_model_iou5_{:.2f}".format(max_iou5))
     to_write_acc = acc_log_txt_formatter.format(time_str=time.strftime("%Y_%m_%d_%H:%M:%S"),
                                                 epoch=epoch,
                                                 acc=acc)
@@ -152,42 +222,56 @@ def dataset_idx(dataset, num_users):
 
 def start_training():
     root = os.path.join(config.feature_dir)
-    annotation_file = os.path.join(config.annotation_file)
+    # annotation_file = os.path.join(config.annotation_file)
     token = os.path.join(config.token)
-
-    dataset = baseline_charades_dataset.VideoFrameDataset(
-        root_path=root,
-        annotationfile_path=annotation_file,
-        token_path=token,
-        max_fms=config.max_fms,
-        max_len=config.max_len,
-    )
     val_annotation_file = os.path.join(config.val_annotation_file)
-    val_dataset = baseline_charades_dataset.VideoFrameDataset(
-        root_path=root,
-        annotationfile_path=val_annotation_file,
-        token_path=token,
-        max_fms=config.max_fms,
-        max_len=config.max_len,
-    )
+    num_users = 4 # temp
+    frac = 1 # temp
+    # dict_users = dataset_idx(dataset, num_users)
+
+    if config.dataset == "charades":
+        val_dataset = baseline_charades_dataset.VideoFrameDataset(
+            root_path=root,
+            annotationfile_path=val_annotation_file,
+            token_path=token,
+            max_fms=config.max_fms,
+            max_len=config.max_len,
+        )
+    elif config.dataset == 'activitynet':
+        val_dataset = baseline_activity_dataset.VideoFrameDataset(
+            root_path=root,
+            annotationfile_path=val_annotation_file,
+            token_path=token,
+            max_fms=config.max_fms,
+            max_len=config.max_len,
+        )
+    elif config.dataset == 'tacos':
+        val_dataset = baseline_tacos_dataset.VideoFrameDataset(
+            root_path=root,
+            annotationfile_path=val_annotation_file,
+            token_path=token,
+            max_fms=config.max_fms,
+            max_len=config.max_len,
+        )
 
     val_loader = torch.utils.data.DataLoader(dataset=val_dataset, batch_size=config.bsz,
                                                shuffle=True, collate_fn=my_collate_fn, drop_last=True)
 
     result_dir = config.result_dir
 
-    num_users = 100 # temp
-    frac = 0.1 # temp
-    dict_users = dataset_idx(dataset, num_users)
+    # num_users = 4 # temp
+    # frac = 1 # temp
+    # # dict_users = dataset_idx(dataset, num_users)
 
-    model = Baseline(config)
+    model = VideoConv(config)
     # model.to(device)
     model = model.cuda(device=config.DEVICE_IDS[0])  # 模型放在主设备
     model.requires_grad_(True)
 
-    train_log_filename = "train_log_fl.txt"
+    train_log_filename = "train_log_fl_{:s}_{:d}_{:d}_{:d}_device_{:d}.txt".format(config.dataset, config.num_round,
+                                                                                   num_users, config.local_epoch, config.DEVICE_IDS[0])
     train_log_filepath = os.path.join(result_dir, train_log_filename)
-    train_log_txt_formatter = "{time_str} [Epoch] {epoch:03d} [Loss] {loss_str}\n"
+    train_log_txt_formatter = "{time_str} [Round] {epoch:03d} [Loss] {loss_str}\n"
 
     min_loss = 10000
     loss_train = []
@@ -197,10 +281,34 @@ def start_training():
         loss_locals = []
         m = max(int(frac * num_users), 1)
         idxs_users = np.random.choice(range(num_users), m, replace=False)
-        for idx in tqdm(idxs_users,
-                        desc="user iteration",
-                        total=len(idxs_users)):
-            local = LocalUpdate(args = config, dataset = dataset, idxs = dict_users[idx])
+        for idx in idxs_users:
+            idx_anno_path = config.annotation_file.split('.txt')[0] + "_user{:d}.txt".format(idx+1)
+            idx_anno_path = os.path.join(idx_anno_path)
+            if config.dataset == "charades":
+                dataset = baseline_charades_dataset.VideoFrameDataset(
+                    root_path=root,
+                    annotationfile_path=idx_anno_path,
+                    token_path=token,
+                    max_fms=config.max_fms,
+                    max_len=config.max_len,
+                )
+            elif config.dataset == 'activitynet':
+                dataset = baseline_activity_dataset.VideoFrameDataset(
+                    root_path=root,
+                    annotationfile_path=idx_anno_path,
+                    token_path=token,
+                    max_fms=config.max_fms,
+                    max_len=config.max_len,
+                )
+            elif config.dataset == 'tacos':
+                dataset = baseline_tacos_dataset.VideoFrameDataset(
+                    root_path=root,
+                    annotationfile_path=idx_anno_path,
+                    token_path=token,
+                    max_fms=config.max_fms,
+                    max_len=config.max_len,
+                )
+            local = LocalUpdate(config = config, number=idx, dataset = dataset)
             w, loss = local.train(net=copy.deepcopy(model))
             w_locals.append(copy.deepcopy(w))
             loss_locals.append(copy.deepcopy(loss))
@@ -217,10 +325,10 @@ def start_training():
 
         if loss_avg < min_loss:
             min_loss = loss_avg
-            checkpoint = {
-                "model_param": model.state_dict(),
-                "model_cfg": config}
-            torch.save(checkpoint, result_dir + config.best_train_model_file_name)
+            # checkpoint = {
+            #     "model_param": model.state_dict(),
+            #     "model_cfg": config}
+            # torch.save(checkpoint, result_dir + config.best_train_model_file_name)
 
         start_validation(val_loader, model, train_log_filepath, round)
 
@@ -230,11 +338,11 @@ def start_training():
         with open(train_log_filepath, "a") as f:
             f.write(to_write)
 
-    checkpoint = {
-        "model_struct": model,
-        "model_param": model.state_dict(),
-        "model_cfg": config}
-    torch.save(checkpoint, result_dir + config.train_model_file_name)
+    # checkpoint = {
+    #     "model_struct": model,
+    #     "model_param": model.state_dict(),
+    #     "model_cfg": config}
+    # torch.save(checkpoint, result_dir + config.train_model_file_name)
 
 if __name__ == '__main__':
     start_training()

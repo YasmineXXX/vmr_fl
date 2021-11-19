@@ -1,0 +1,1602 @@
+AO8RW>a person is putting a book on a shelf.>0.0>6.9>33.708333333333336
+Y6R7T>person begins to play on a phone.>20.8>30.0>29.458333333333332
+Y6R7T>person start playing on their phone.>20.8>30.0>29.458333333333332
+Y6R7T>person pouring it into a glass.>7.3>17.3>29.458333333333332
+Y6R7T>the person pours some water into the glass.>7.3>17.3>29.458333333333332
+Y6R7T>person pours water into a glass.>7.3>17.3>29.458333333333332
+372CC>a person is sitting in front of a computer sneezing.>17.5>29.9>30.541666666666668
+372CC>person starts sneezing.>17.5>29.9>30.541666666666668
+HPEE5>person close the door.>20.3>25.0>24.25
+HPEE5>person open a door.>12.6>21.4>24.25
+P1EK9>person throwing his bag down.>20.8>27.0>25.916666666666668
+P1EK9>person they throw it on the floor.>20.8>27.0>25.916666666666668
+P1EK9>person they throw the bag on the floor too.>20.8>27.0>25.916666666666668
+P1EK9>a person walks into a room opens a box.>5.8>11.2>25.916666666666668
+AOMNM>a person runs into the closet.>0.0>5.1>29.791666666666668
+NHUV1>person opening a bag.>0.0>3.1>17.791666666666668
+UVEPN>person drinking a cup of coffee.>10.8>17.0>23.5
+1G9R7>the person pours a drink into a cup.>2.7>12.6>33.625
+L347E>person vegins to throw a broom on the floor.>28.3>33.8>34.208333333333336
+2074D>the person turns the light on.>3.3>11.2>22.708333333333332
+2074D>person flips on a light switch.>3.3>11.2>22.708333333333332
+OE751>person is talking on the phone.>12.0>23.4>33.208333333333336
+OE751>person talking on the phone.>12.0>23.4>33.208333333333336
+OE751>person closing the door behind them.>21.1>34.0>33.208333333333336
+TAZGF>person put the plate on a table.>4.5>10.5>12.083333333333334
+TAZGF>person sit down on a sofa.>7.3>13.0>12.083333333333334
+TAZGF>person they sit on the couch.>7.3>13.0>12.083333333333334
+K2BY7>a person is putting on clothes.>0.0>5.0>32.041666666666664
+0AGCS>the person throws the blanket on a chair.>17.6>22.5>27.375
+BRLC0>another person eating sandwich.>13.5>19.2>28.458333333333332
+QEQJ3>person close the door.>15.1>24.3>30.583333333333332
+QEQJ3>a person is playing with their phone.>2.4>9.3>30.583333333333332
+QEQJ3>person closes the doorknob.>15.1>24.3>30.583333333333332
+CDIW7>person puts a box in front of a door.>6.6>13.5>20.333333333333332
+P8ZU6>person takes off their shoes.>10.3>18.4>30.375
+ZF5CP>the person closes the closet door.>14.2>21.1>26.166666666666668
+ZF5CP>a person opens a closet.>0.0>5.7>26.166666666666668
+1K0SU>person drinking a glass of water.>14.9>23.0>31.291666666666668
+1K0SU>person turns on the light.>4.4>9.4>31.291666666666668
+64F1C>the person is throwing a blanket on the floor.>22.6>27.7>30.041666666666668
+64F1C>person throwing towels on the floor.>22.3>27.4>30.041666666666668
+O7OD2>a person is holding a medicine bottle.>4.4>10.9>29.041666666666668
+O7OD2>a person is holding a bottle of medicine.>4.4>10.9>29.041666666666668
+O7OD2>person eating a sandwich.>8.0>16.1>29.041666666666668
+LE5F4>a person takes a camera from the chair.>0.0>6.2>25.25
+FV51S>person takes out a blanket.>3.4>10.4>30.583333333333332
+KZPBC>person opens a book to read.>11.2>18.6>39.5
+U3ANG>person puts the laptop in a box.>25.3>36.0>40.75
+U3ANG>person opening the closet.>0.4>11.4>40.75
+U3ANG>the person opened a closet door.>0.4>11.4>40.75
+NALYS>person puts it in the box.>17.6>28.1>30.916666666666668
+NALYS>person opens box of clothes.>0.0>7.1>30.916666666666668
+NALYS>person starts smiling.>11.3>21.0>30.916666666666668
+NALYS>person opens box.>0.0>7.1>30.916666666666668
+NALYS>person carries box out of closet.>11.4>17.9>30.916666666666668
+CW4AU>person run around the room.>25.8>35.2>34.75
+CW4AU>person runs around the room once.>25.8>35.2>34.75
+CW4AU>person they put their shoes on.>18.5>27.9>34.75
+CW4AU>the person puts on shoes.>18.5>27.9>34.75
+E1VFZ>a person puts a box on a desk.>0.5>6.0>13.25
+OMFOJ>the person opens the window.>15.2>21.1>30.083333333333332
+OMFOJ>person puts their cleaning supplies down on a nearby shelf.>19.7>25.2>30.083333333333332
+2JR26>person they start drinking some coffee from a glass.>29.4>38.0>38.083333333333336
+X8A6H>the person puts the homework on the shelf.>15.2>24.0>28.25
+X8A6H>a person awakens on the floor of the closet.>1.2>7.8>28.25
+GK15U>a person sits on the sofa.>0.7>6.9>31.833333333333332
+GK15U>person playing on their phone.>29.9>33.0>31.833333333333332
+GK15U>person eating a bag of chips.>27.9>33.0>31.833333333333332
+TD6CM>person started dressing.>4.0>14.0>31.583333333333332
+PIMO4>a person is running into the room holding a pillow.>1.8>10.3>30.083333333333332
+PIMO4>person begins playing on their phone.>28.1>31.0>30.083333333333332
+Q9H04>a person is in the rec room undressing.>1.6>6.9>29.958333333333332
+Q9H04>person throwing their clothes about.>3.2>10.2>29.958333333333332
+Q9H04>person b is eating from a bag.>8.9>14.7>29.958333333333332
+Q9H04>is approached by another person eating a snack.>8.9>14.7>29.958333333333332
+Q9H04>another person walks in eating a cracker.>8.9>14.7>29.958333333333332
+Q9H04>a person is undressing.>1.6>6.9>29.958333333333332
+WFUK2>person they are smiling.>12.1>22.0>20.541666666666668
+1U9TF>a person begins sneezing.>10.0>19.4>22.041666666666668
+1U9TF>person starts sneezing.>10.0>19.4>22.041666666666668
+WZ351>a person is smiling.>0.4>16.2>32.666666666666664
+JQHIC>a person is opening a closet.>6.6>14.8>31.125
+JQHIC>another person opens the door to the closet.>7.0>13.4>31.125
+41CZS>person takes off their jacket they pick a blanket up.>12.5>19.6>28.291666666666668
+41CZS>person next the open a door.>14.3>23.4>28.291666666666668
+41CZS>a person undresses by taking off a jacket.>2.3>15.7>28.291666666666668
+01KML>the person begins watching their laptop intently.>22.0>35.0>33.708333333333336
+QNKDI>person reading a book.>18.3>33.0>32.25
+QNKDI>the person holding the book decides to stand up.>24.9>33.0>32.25
+GIC6A>person holding a sandwich.>0.0>7.7>16.916666666666668
+GIC6A>a person enters through a doorway holding a sandwich.>0.0>7.7>16.916666666666668
+GIC6A>person walks back to the doorway.>0.0>2.7>16.916666666666668
+A4SR3>the person puts the food aside.>17.1>23.8>30.083333333333332
+U0ACD>person takes some medicine.>21.0>28.3>28.541666666666668
+869NM>the person opens a box.>1.0>10.3>23.083333333333332
+869NM>person they begin to open a box.>1.0>10.3>23.083333333333332
+9RA4P>a person opens the door to the rec room.>1.1>7.9>51.166666666666664
+78FJX>a person opens a cabinet.>0.0>5.8>31.25
+78FJX>person takes out a book.>8.2>17.8>31.25
+78FJX>a person takes a book out of a cabinet.>8.2>17.8>31.25
+78FJX>person closes the cabinet.>15.4>22.5>31.25
+N79WJ>person put it on a shelf.>15.7>24.8>31.0
+DJG7A>person puts some clothes on it.>1.9>11.9>30.791666666666668
+8VSV6>person sits in a chair.>9.4>17.0>15.708333333333334
+EHYXP>person smiling the whole time.>2.2>7.7>19.916666666666668
+X3KFE>person drinks the water in the glass.>14.4>21.3>31.875
+X3KFE>person holds a glass up high.>10.8>17.3>31.875
+X3KFE>person they hold up a glass of water.>10.8>17.3>31.875
+X3KFE>person takes a picture of theirself with a black camera.>0.0>10.9>31.875
+X3KFE>person hold a cup in the air.>10.8>17.3>31.875
+4CHXK>person closes the door.>5.8>12.1>24.25
+4CHXK>person throw the glass on the floor.>20.8>25.0>24.25
+PW3GG>person they open the door.>17.5>23.6>23.75
+8M0ZV>a second person walks in drinking a glass of water.>27.5>31.0>30.125
+8M0ZV>another person walks in drinking a glass of water.>27.5>31.0>30.125
+0FO58>a person is walking through a hallway sneezing.>1.3>13.1>32.75
+0FO58>a person is sneezing.>1.3>13.1>32.75
+0FO58>a person is sneezing in the doorway.>1.3>13.1>32.75
+N9D4C>person snuggle their pillow.>8.3>16.2>19.125
+N9D4C>person snuggled with a pillow.>8.3>16.2>19.125
+X0JKJ>person picks up a camera to take a picture.>29.8>34.0>33.5
+X0JKJ>person takes a picture.>29.8>34.0>33.5
+XFS7Z>person puts them on a table.>27.9>41.6>48.625
+XFS7Z>person takes some medicine.>37.1>46.7>48.625
+1W28T>a person dresses by putting a shirt on.>4.5>12.8>30.75
+1W28T>person sneezing they begin to self groom.>8.8>14.2>30.75
+1W28T>a person is dressing in front of a window.>4.5>12.8>30.75
+AZTTC>person put the book in a cabinet.>25.7>31.0>30.25
+AZTTC>person puts the book down on a desk.>25.7>31.0>30.25
+AZTTC>person they start closing the door.>12.8>22.0>30.25
+AZTTC>person someone holding a book.>2.7>14.5>30.25
+AZTTC>a woman holding a book walks into a room.>2.7>14.5>30.25
+AZTTC>person closing a door,.>12.8>22.0>30.25
+AZTTC>person closes the door behind her.>12.8>22.0>30.25
+QI3JB>the person is laughing at the tv.>2.9>19.7>61.125
+CVPQR>a person is in a basement opening their laptop.>0.0>9.0>30.625
+CCCUJ>person close the door.>11.6>18.9>60.458333333333336
+CCCUJ>person put their laptop down off to the side.>24.6>32.2>60.458333333333336
+CCCUJ>person turned on a light.>8.6>13.5>60.458333333333336
+CCCUJ>person they turn on the light.>8.6>13.5>60.458333333333336
+UR7C8>the person takes their shoes off.>5.2>13.8>32.875
+UR7C8>person closing the door.>1.1>8.4>32.875
+UR7C8>person closes the door in the hallway.>1.1>8.4>32.875
+8Y4YD>another person holds a camera.>18.0>32.0>30.916666666666668
+7QWL3>person looks out the window.>18.4>33.0>32.333333333333336
+7QWL3>a person is standing in the closet reading a book.>15.1>20.4>32.333333333333336
+7QWL3>person they close the book.>15.1>20.4>32.333333333333336
+7QWL3>the person closes the book.>15.1>20.4>32.333333333333336
+7QWL3>person look out the window.>18.4>33.0>32.333333333333336
+P2UBC>person begin sneezing.>5.7>13.7>33.291666666666664
+P2UBC>person turn off the light.>28.8>33.5>33.291666666666664
+P2UBC>person proceed to put on a pair of shoes.>4.5>13.0>33.291666666666664
+P2UBC>person they put on their shoes.>4.5>13.0>33.291666666666664
+P2UBC>person turning off a light.>28.8>33.5>33.291666666666664
+D19IR>person stand up with a bag of groceries.>11.5>18.1>31.041666666666668
+1DNAX>person is walking to open closet door.>0.4>6.9>28.166666666666668
+1DNAX>the person is opening the doors to the closet.>0.4>6.9>28.166666666666668
+1DNAX>person turns on the light.>6.9>12.0>28.166666666666668
+1DNAX>person starts sneezing.>13.2>20.9>28.166666666666668
+1DNAX>person turns light on grabs broom.>6.9>12.0>28.166666666666668
+BQAUC>person runs off.>10.1>15.6>17.708333333333332
+BQAUC>a person puts shoes on a shelf.>2.1>8.0>17.708333333333332
+BQAUC>the person puts the shoes away.>2.1>8.0>17.708333333333332
+ZAJAJ>a person snuggles against a big pillow.>3.6>9.1>33.833333333333336
+ZAJAJ>person holding a pillow.>0.5>10.0>33.833333333333336
+706BT>a person is seen eating a sandwich in the doorway.>0.0>5.5>31.958333333333332
+706BT>a person stands in a doorway eating a sandwich.>0.0>5.5>31.958333333333332
+U45LK>person they close the door.>29.3>36.0>34.916666666666664
+U45LK>a person is putting clothes away in a wardrobe.>1.7>8.8>34.916666666666664
+2Q5Y2>a person holding a blanket walks into the laundry room.>0.0>14.6>30.333333333333332
+2Q5Y2>person put their blanket into the washer for washing.>3.9>15.0>30.333333333333332
+J3V1D>person takes off their shoes.>19.6>25.6>31.041666666666668
+TSBB8>person turns the light off.>6.0>12.3>22.916666666666668
+ZCH7N>person they being playing with their phone.>14.7>27.9>30.291666666666668
+ZCH7N>person begins eating it.>2.2>15.5>30.291666666666668
+ZCH7N>person take out their phone.>12.1>17.9>30.291666666666668
+ZCH7N>a person is eating a sandwich.>2.1>15.5>30.291666666666668
+RLS2I>person opens closet.>3.8>8.4>10.0
+ZJ54N>person begin undressing by taking off a jacket.>18.7>27.6>29.708333333333332
+6FYXS>a person opens a closet door.>8.0>13.8>19.666666666666668
+6FYXS>person takes out a pillow.>5.1>12.5>19.666666666666668
+6FYXS>person snuggling with the pillow.>7.4>17.2>19.666666666666668
+SQKR0>person runs back down the hallway.>8.3>14.5>19.458333333333332
+SQKR0>this person runs back down the hall way.>8.3>14.5>19.458333333333332
+SQKR0>person running down the hall.>8.3>14.5>19.458333333333332
+SQKR0>person continues to run.>8.3>14.5>19.458333333333332
+SQKR0>person takes off their shoes.>10.6>18.2>19.458333333333332
+JUGS8>person a is holding a bottle of medicine.>13.7>23.7>30.75
+JUGS8>person b is undressing.>3.8>14.8>30.75
+JUGS8>watching another person undressing.>3.8>14.8>30.75
+PHIIX>person puts the pillow on the shelf.>1.0>11.7>25.291666666666668
+RAQNI>a second person is looking out a window.>23.6>33.0>31.958333333333332
+RAQNI>another person is watching out a window.>23.6>33.0>31.958333333333332
+RAQNI>another person stands looking out of a window.>23.6>33.0>31.958333333333332
+RAQNI>a person is tidying up a pile of clothes.>0.0>15.7>31.958333333333332
+RIUEI>person eating a sandwich.>3.7>12.0>32.333333333333336
+RIUEI>a person is drink walking eating a sandwich.>3.7>12.0>32.333333333333336
+RIUEI>person they turn on the light.>13.1>19.6>32.333333333333336
+RIUEI>person throw it in the floor.>24.1>29.8>32.333333333333336
+2I871>person runs away dancing.>19.2>32.0>31.458333333333332
+2I871>another person running in to the house.>19.2>32.0>31.458333333333332
+2I871>person running out of the house.>19.2>32.0>31.458333333333332
+DNXBJ>a person is closing the cabinet.>13.7>22.5>31.0
+PW6CO>a person awakens on the floor of the hallway.>17.9>29.0>28.375
+RYDUK>a person begins undressing.>3.5>8.3>21.0
+RYDUK>person puts the clothes in the closet.>4.3>9.1>21.0
+ABK63>the person drinks from a glass of water.>17.7>26.3>30.125
+FMJZQ>a person is laughing.>0.7>9.6>19.166666666666668
+KN0TK>person opens a closet.>0.7>7.6>30.083333333333332
+OLV1L>person begins to fix a vacuum.>4.9>18.8>32.833333333333336
+4RLYA>a person puts some dishes on a chair.>0.7>11.7>31.291666666666668
+4RLYA>person washes a mirror.>26.8>32.0>31.291666666666668
+WSS3R>a person in a towel starts dressing in the closet.>12.8>23.0>39.583333333333336
+WSS3R>person begins dressing.>12.8>23.0>39.583333333333336
+DRPO3>person putting it on a shelf.>9.0>13.7>31.291666666666668
+DRPO3>person picks up bottle of water & drinks.>0.7>7.0>31.291666666666668
+DRPO3>person opens up bag.>13.7>25.9>31.291666666666668
+DRPO3>person starts to open door.>29.3>32.0>31.291666666666668
+52QLH>the person is opening a door.>3.7>10.1>30.583333333333332
+3AEF5>person puts it in a box.>20.7>31.0>29.708333333333332
+3AEF5>person close the box.>2.8>8.4>29.708333333333332
+3AEF5>one person puts a blanket in a box.>20.7>31.0>29.708333333333332
+JQY4L>another person runs through holding a box.>7.2>12.8>20.541666666666668
+O441U>person puts it in a bag.>15.6>21.4>26.875
+3SIOT>person the other was throwing around a bag.>0.0>6.7>30.25
+L9YK1>a person is running back.>0.0>15.1>30.166666666666668
+L9YK1>the person is running with a towel.>0.0>15.1>30.166666666666668
+DRXNL>another person takes books from the table.>12.9>17.8>30.791666666666668
+DRXNL>another person is calmly putting things on a shelf.>14.3>19.7>30.791666666666668
+DRXNL>person puts them on a shelf.>14.3>19.7>30.791666666666668
+DRXNL>a person throws clothes from a table into a box.>0.6>15.1>30.791666666666668
+NJU3G>person they start dressing.>18.7>32.0>30.791666666666668
+NJU3G>person eating a sandwich.>2.0>9.1>30.791666666666668
+NJU3G>a person is walking into a room eating a sandwich.>2.0>9.1>30.791666666666668
+NJU3G>person begin dressing in the doorway.>18.7>32.0>30.791666666666668
+7SLK1>person slightly closes a door.>13.0>21.9>30.25
+7SLK1>a person is holding a phone.>0.0>13.6>30.25
+XIG01>the person is holding a sandwich.>0.0>5.4>29.291666666666668
+XIG01>person eats some of it.>1.4>10.6>29.291666666666668
+XIG01>person eating a sandwich.>1.4>10.6>29.291666666666668
+G4NOT>person closes door.>22.9>28.3>30.291666666666668
+G4NOT>person closing a doorway.>22.9>28.3>30.291666666666668
+G4NOT>person walks through doorway.>21.9>30.0>30.291666666666668
+LNWWJ>person throwing a pillow onto a chair.>4.6>9.9>21.958333333333332
+LNWWJ>person throws down a pillow.>4.6>9.9>21.958333333333332
+PABBK>person they take the medicine.>6.7>21.0>29.625
+PABBK>person start eating from a bag.>17.4>31.0>29.625
+PABBK>person eats something.>17.4>31.0>29.625
+PABBK>person begin to eat food.>17.4>31.0>29.625
+N1EDG>person put the cup of coffee on the desk.>25.9>31.0>29.75
+MR66M>person eat some food from it.>22.5>32.4>32.166666666666664
+MR66M>person eating food from a dish.>22.5>32.4>32.166666666666664
+01ZWG>a person opening a laptop.>4.9>11.0>32.791666666666664
+01ZWG>person opens the laptop.>4.9>11.0>32.791666666666664
+57J92>smiles at another person who is eating a sandwich.>29.8>35.4>36.666666666666664
+57J92>person another eats a sandwich.>29.8>35.4>36.666666666666664
+57J92>person eating something.>29.8>35.4>36.666666666666664
+XRQDI>the other person is laughing.>7.2>15.8>19.333333333333332
+XRQDI>the second person runs into the door.>0.0>8.3>19.333333333333332
+XRQDI>two persons are running up.>0.0>8.3>19.333333333333332
+XRQDI>person two people are running through a hallway.>0.0>8.3>19.333333333333332
+XRQDI>person one runs into a doorway.>0.0>8.3>19.333333333333332
+XRQDI>laughs at the second person.>7.2>15.8>19.333333333333332
+XRQDI>one person runs in a room.>0.0>8.3>19.333333333333332
+G06QC>person puts a broom back.>12.6>18.7>29.875
+G06QC>a person is drinking a glass of water.>0.0>5.3>29.875
+G06QC>person takes vacuum out of closet.>16.8>25.0>29.875
+G06QC>person takes a drink from a glass.>0.0>5.3>29.875
+G06QC>the person puts the broom in the closet.>12.6>18.7>29.875
+G06QC>person takes out the vacuum.>16.8>25.0>29.875
+Q8XEE>person opens a laptop.>1.9>7.8>19.541666666666668
+Q8XEE>person they open up a laptop.>1.9>7.8>19.541666666666668
+987P8>a person throws some clothes on the ground.>0.0>4.2>20.791666666666668
+987P8>person throws that in the floor.>0.0>4.2>20.791666666666668
+987P8>person begins undressing by taking off a jacket.>2.0>11.8>20.791666666666668
+3XUPT>person opens door.>0.0>13.4>31.166666666666668
+3XUPT>one person with a broom opens the bathroom door.>0.0>13.4>31.166666666666668
+X084M>a person is fixing a light in the garage.>11.3>21.8>35.041666666666664
+X084M>person they turn on the light.>11.3>21.8>35.041666666666664
+X084M>the person walks up to the light.>11.3>21.8>35.041666666666664
+4Q3KR>person tidying the shelf.>10.0>23.0>32.75
+7P5R2>a person opens a door.>1.8>16.1>32.75
+7P5R2>a person is opening a door.>1.8>16.1>32.75
+7P5R2>person takes a book out of the bag.>14.5>24.4>32.75
+0NJ26>a person is putting a blanket on the couch.>0.0>13.4>30.416666666666668
+6ALEL>person begin eating it.>21.9>27.0>25.916666666666668
+6ALEL>person takes a bite of a sandwich.>19.3>24.3>25.916666666666668
+6ALEL>person take a sandwich.>19.3>24.3>25.916666666666668
+6ALEL>person finishing dressing themself.>9.7>16.4>25.916666666666668
+6ALEL>person start eating it.>21.9>27.0>25.916666666666668
+ANAR5>person eating food from a bag.>3.1>11.6>30.125
+QNXGG>a person is undressing near a shelf.>1.8>11.4>21.0
+QNXGG>person they begin pouring medicine into a cup.>12.3>22.0>21.0
+QNXGG>person pour it into a glass of water.>12.3>22.0>21.0
+Q5GVZ>person holding a cup of coffee.>3.4>15.0>29.25
+Q5GVZ>the person puts the towel on a table.>11.0>16.4>29.25
+Q5GVZ>the person puts the towel onto a pile of clothes.>11.0>16.4>29.25
+VML1Z>a person opens the closet.>0.0>6.2>29.375
+3JSX7>person works on a burnt-out light.>7.2>15.6>31.625
+3JSX7>person turns on a light.>7.2>15.6>31.625
+8U3SS>person they begin to laugh at each other.>3.9>19.7>31.458333333333332
+MSW4E>the person is also eating some food.>10.8>19.3>28.75
+6BUU6>a person is closing the hallway door grasping the doorknob.>0.0>3.2>30.916666666666668
+6BUU6>person holding a laptop opens.>29.2>32.0>30.916666666666668
+6BUU6>person closes a door.>0.0>3.2>30.916666666666668
+LRJS4>person holding a book.>0.0>12.2>25.75
+DK59J>person opens a book.>12.3>25.4>30.375
+DK59J>the person opens the book.>12.3>25.4>30.375
+5IDF4>the person throws the book on the floor.>10.7>16.0>31.083333333333332
+5IDF4>a person runs down the hallway holding a book.>7.8>14.4>31.083333333333332
+5IDF4>a man runs into a room.>7.8>14.4>31.083333333333332
+5IDF4>person throws a book down onto the floor.>10.7>16.0>31.083333333333332
+5O31N>person throw their clothes on the chair.>33.1>38.8>40.625
+5O31N>a person closes a door.>2.1>9.1>40.625
+5O31N>person get undressed.>22.8>35.9>40.625
+5O31N>person starts undressing.>22.8>35.9>40.625
+FABO7>person starts smiling at picture on wall.>25.9>32.0>31.333333333333332
+X9WTR>a person sits in a chair.>0.0>25.2>64.54166666666667
+X9WTR>a person sits down in a chair.>0.0>25.2>64.54166666666667
+X9WTR>person watching television.>3.8>22.3>64.54166666666667
+G838Q>person begins to tidy the closet.>8.1>18.4>32.125
+G838Q>a person takes a vacuum out of the closet.>0.0>10.0>32.125
+IS7PL>a person walks into the bathroom eating a sandwich.>0.0>6.6>20.791666666666668
+IS7PL>person someone walks through the doorway eating a sandwich.>0.0>6.6>20.791666666666668
+IS7PL>person eating a sandwich.>0.0>6.6>20.791666666666668
+8BG1T>the person laughs really hard at the television.>15.5>29.8>45.5
+8BG1T>person laugh at the television.>15.5>29.8>45.5
+K5CRM>the person puts the pillow on the floor.>6.2>11.3>17.625
+TLCLG>person runs down a hallway.>23.6>32.9>31.833333333333332
+TLCLG>person talking on the phone.>13.8>22.5>31.833333333333332
+TLCLG>person go for a run.>23.6>32.9>31.833333333333332
+TLCLG>a person is talking on the phone.>13.8>22.5>31.833333333333332
+TLCLG>the person quickly runs out.>23.6>32.9>31.833333333333332
+YLNPX>person talks on a phone.>31.8>39.0>38.0
+YLNPX>person takes out of a cell phone.>33.0>39.0>38.0
+2ODLD>a person is sitting in the walk in closet undressing.>0.0>10.3>21.583333333333332
+Y1BWP>a person opens a door with a box of tissues.>3.6>10.1>30.333333333333332
+Y1BWP>a person opens the door.>3.6>10.1>30.333333333333332
+Y1BWP>person they put the kleenex back  in the box.>20.4>26.2>30.333333333333332
+T6BS9>person opens a closet.>4.5>10.9>14.958333333333334
+T6BS9>person throws the shoes into a closet.>4.7>11.2>14.958333333333334
+T6BS9>person throw the shoes in.>4.7>11.2>14.958333333333334
+T6BS9>person throws the shoes inside.>4.7>11.2>14.958333333333334
+T6BS9>person they open a door.>3.8>9.9>14.958333333333334
+ADK5J>the person puts the camera onto the shelf.>15.2>20.8>23.791666666666668
+ADK5J>person put their camera on a shelf.>15.2>20.8>23.791666666666668
+X95MU>person take a picture.>19.1>37.0>36.416666666666664
+X95MU>the person puts on their shoes.>0.5>8.2>36.416666666666664
+X95MU>person putting on shoes.>0.5>8.2>36.416666666666664
+X95MU>person they take a picture.>19.1>37.0>36.416666666666664
+G1NFB>person close the door.>22.3>28.3>33.25
+G1NFB>a person is sneezing as the person dusts shelves.>0.0>3.7>33.25
+G1NFB>the person begins washing the mirror.>14.3>26.0>33.25
+55DDW>person they sat their smiling in comfort.>31.9>40.0>38.791666666666664
+6ZJAL>person sits on the sofa.>11.2>22.4>33.416666666666664
+6ZJAL>person throws it on the floor.>11.5>16.5>33.416666666666664
+6ZJAL>person begins to eat it.>25.3>34.0>33.416666666666664
+6ZJAL>person start to eat some food.>25.3>34.0>33.416666666666664
+PVAJ8>person grab the closet doorknob.>29.2>37.9>37.708333333333336
+OEIRN>person eats a sandwich.>2.3>18.0>40.5
+OEIRN>person take some medicine.>19.3>36.7>40.5
+OEIRN>person they take the medicine.>19.3>36.7>40.5
+OEIRN>person takes some with a glass of water.>25.6>30.0>40.5
+OEIRN>a person sits on a sofa eating a sandwich.>2.3>18.0>40.5
+OEIRN>the person takes medicine off a table.>19.3>36.7>40.5
+V8GK6>person turns off a light.>24.8>33.0>31.958333333333332
+V8GK6>person turns off the light.>24.8>33.0>31.958333333333332
+YXSI7>a person opens the front door.>0.9>6.1>23.291666666666668
+YXSI7>a person walks through a doorway.>1.6>7.6>23.291666666666668
+YXSI7>person starts sneezing.>13.1>20.7>23.291666666666668
+YXSI7>person proceeded to have a sneezing fit.>13.1>20.7>23.291666666666668
+5V5EL>a person takes a picture with a camera.>0.0>6.5>17.541666666666668
+6YN3J>the person puts the sandwich on the coffee table.>5.8>13.1>31.291666666666668
+6YN3J>person eating a sandwich.>0.0>9.0>31.291666666666668
+6YN3J>person stand up.>16.5>23.8>31.291666666666668
+6YN3J>a person is sitting on the couch eating a sandwich.>0.0>9.0>31.291666666666668
+UPL9S>person walks in holding laptop.>57.8>76.0>128.625
+YXQWH>the person puts the groceries into a cabinet.>23.3>30.2>30.291666666666668
+QGLQ0>person they stand up.>0.0>4.3>30.625
+QGLQ0>person puts a canvas bag into a box.>1.1>10.6>30.625
+106AY>person eating food.>29.1>35.0>34.041666666666664
+106AY>person is turning light on.>1.1>9.1>34.041666666666664
+106AY>person eats food.>29.1>35.0>34.041666666666664
+106AY>person putting shoes on.>10.9>20.6>34.041666666666664
+Z5AZW>a person in the hallway holding a towel.>0.0>9.6>30.375
+IET7H>person they are opening the door.>7.5>17.2>22.75
+KFHLP>person closes the door.>2.5>7.7>17.791666666666668
+KFHLP>a person runs into the room.>0.0>3.9>17.791666666666668
+KFHLP>person puts a plate of food on the table.>0.0>4.5>17.791666666666668
+KFHLP>person they run back.>0.0>3.9>17.791666666666668
+ACAK4>person begin sneezing.>18.7>24.6>29.708333333333332
+ACAK4>the person takes a towel from a chair.>13.6>22.1>29.708333333333332
+ACAK4>a person sits at a table working on their laptop.>0.0>13.2>29.708333333333332
+M7BD4>person they open the closet.>18.0>23.5>28.333333333333332
+M7BD4>person close their laptop.>20.2>26.2>28.333333333333332
+M7BD4>person they open a closet door.>17.1>23.5>28.333333333333332
+M7BD4>person tidy up some clothes on the floor.>2.8>10.9>28.333333333333332
+XJ4T3>the person opens a box in the closet.>5.0>11.4>24.333333333333332
+XJ4T3>person opening a boxed game.>5.0>11.4>24.333333333333332
+XJ4T3>a person is opening the door to the closer.>0.0>4.8>24.333333333333332
+XJ4T3>person opens the door.>0.0>4.8>24.333333333333332
+XJ4T3>the person holds the towel close to their face.>22.4>25.0>24.333333333333332
+DEXMO>person they take some clothes from the floor.>19.1>25.0>31.041666666666668
+PFTHZ>cooking in a recreation room / man cave.>21.2>25.0>23.791666666666668
+03EW0>a person is throwing a box.>0.0>2.6>31.166666666666668
+19PNV>the person takes a blanket.>14.7>21.3>34.166666666666664
+UDAQU>person sneezing multiple times.>0.0>12.0>31.166666666666668
+UDAQU>a person is sneezing on their sandwich.>0.0>12.0>31.166666666666668
+UDAQU>a person puts a sandwich on top of a book.>15.3>20.4>31.166666666666668
+55OAL>a person opens a closet door.>8.8>15.0>22.416666666666668
+55OAL>person takes a blanket off a shelf.>7.7>16.7>22.416666666666668
+55OAL>the person takes the blanket.>7.7>16.7>22.416666666666668
+QWTGQ>a person turns on the light in the hallway.>1.2>7.6>30.208333333333332
+MLLVP>person sneezing on themselves.>10.7>15.9>20.291666666666668
+MLLVP>person drinks from a glass.>4.1>10.5>20.291666666666668
+JBHOL>a laughing person runs into their hallway grasping dishes.>5.4>13.5>20.625
+PTA97>a person is seen fixing their hair at their closet.>0.0>13.7>28.875
+7HVU8>person tidying up by putting some clothes in a bag.>0.0>10.0>29.666666666666668
+E0AEN>person puts clothes from a bag in it.>3.4>12.2>45.333333333333336
+E0AEN>a person opens the doorknob to the closet.>0.0>5.2>45.333333333333336
+E0AEN>a person opens the door to their wardrobe.>0.0>5.2>45.333333333333336
+E0AEN>person puts clothes away on the shelves.>3.4>12.2>45.333333333333336
+E0AEN>a person opens a closet.>0.0>4.7>45.333333333333336
+WJEVU>person they take a drink from a glass.>7.7>30.6>59.041666666666664
+WJEVU>the person reaches to turn the light off.>44.4>51.0>59.041666666666664
+WJEVU>person snuggle with a blanket.>47.9>57.2>59.041666666666664
+OL2QI>person throws it on the floor.>3.7>15.9>38.041666666666664
+A10NL>the person takes a laptop from a desk.>11.0>19.6>20.25
+DOL47>person closes the door.>19.5>25.4>27.166666666666668
+I68J0>person puts the book on a table.>7.2>12.5>38.25
+I68J0>person takes a book from the shelf.>3.2>9.1>38.25
+I68J0>person takes a picture of themselves.>26.5>35.1>38.25
+I68J0>a person grabs a book in the closet.>18.7>24.4>38.25
+I68J0>person opens the book.>4.1>10.8>38.25
+I68J0>a person runs into the closet.>0.0>5.6>38.25
+I68J0>person takes a book off of a shelf.>3.2>9.1>38.25
+I68J0>a person runs to a closet.>0.0>5.6>38.25
+EK19H>a person is eating a sandwich.>4.5>15.6>26.125
+FCDXN>person put a glass on table.>13.0>18.8>31.333333333333332
+6ZSB2>a person runs into a hallway.>0.0>4.8>19.791666666666668
+6ZSB2>person open a bag.>0.6>7.2>19.791666666666668
+K3193>a person is sneezing by a sofa.>9.6>19.6>30.625
+HTCKH>person put it on a shelf.>11.7>18.2>18.166666666666668
+VNVRA>person opens a door takes a box out.>0.5>5.8>32.958333333333336
+VNVRA>person closes the door.>7.1>18.6>32.958333333333336
+VNVRA>person puts it on a table.>4.8>9.6>32.958333333333336
+N1RJW>person closes the door to the room.>26.9>36.2>66.375
+N1RJW>person closing the door.>26.9>36.2>66.375
+DC3PF>person another is sneezing at the groceries.>20.2>28.9>30.041666666666668
+DC3PF>person begins sneezing.>20.2>28.9>30.041666666666668
+WSLMS>a person takes off shoes in a hallway.>12.4>23.3>30.666666666666668
+WSLMS>person takes off shoes.>12.4>23.3>30.666666666666668
+WSLMS>the person puts down the glass.>16.4>24.9>30.666666666666668
+FZ0LU>person walk out the doorway with it.>2.5>10.2>29.75
+IBX56>a person eats a sandwich.>0.9>11.5>30.458333333333332
+IBX56>person eating a sandwich.>0.9>11.5>30.458333333333332
+IBX56>a person in the recreation room is eating a sandwich.>0.9>11.5>30.458333333333332
+XWVDK>a person throws a bag of groceries onto the sofa.>7.2>12.4>17.458333333333332
+XWVDK>person they throw the bag on a couch.>7.2>12.4>17.458333333333332
+IA7X9>person puts on shoes.>7.7>19.5>25.291666666666668
+IA7X9>person putting shoes on.>7.7>19.5>25.291666666666668
+IA7X9>person opens the laptop.>11.3>21.1>25.291666666666668
+IA7X9>a person is opening a laptop.>11.3>21.1>25.291666666666668
+APH4V>person they are done they close their closet door.>14.0>19.1>30.875
+APH4V>person open the nearby window.>16.8>28.8>30.875
+APH4V>a person is seen putting clothes in their closet.>6.3>17.6>30.875
+APH4V>person looks out a window.>18.7>32.0>30.875
+APH4V>person puts the clothes in a closet.>6.3>17.6>30.875
+APH4V>person closes the closet door.>14.0>19.1>30.875
+FIAJP>a person is in a hallway undressing by a door.>0.0>6.6>29.791666666666668
+LV24Z>person after sneezing.>0.0>5.4>26.833333333333332
+LV24Z>person takes a laptop from a shelf.>16.0>28.0>26.833333333333332
+YFBA1>the person opens the book.>2.3>8.6>23.0
+ZOK5T>a person runs down a hallway.>0.0>4.8>10.666666666666666
+ZOK5T>person runs out of the hallway.>0.0>4.8>10.666666666666666
+ZOK5T>a person runs down the hallway.>0.0>4.8>10.666666666666666
+JSLW5>a person in their closet opens a wardrobe door.>0.0>6.4>18.166666666666668
+JSLW5>person runs away.>5.5>14.3>18.166666666666668
+8J2K5>person they open a door.>22.0>28.3>35.583333333333336
+8J2K5>person closing doors as they vacuum.>30.2>36.0>35.583333333333336
+VEV4O>a person throws a pillow.>7.3>14.4>29.625
+VEV4O>person throws a pillow onto a couch but misses.>7.3>14.4>29.625
+N7130>person they put their phone in their pocket.>5.6>13.5>30.916666666666668
+N7130>a person opens a door.>0.0>5.6>30.916666666666668
+N7130>person puts a phone in their pocket.>5.6>13.5>30.916666666666668
+N7130>person walks through the doorway.>1.6>7.7>30.916666666666668
+06CKN>person closes the door.>17.6>26.0>25.458333333333332
+06CKN>a person opens a cabinet door.>7.2>14.6>25.458333333333332
+06CKN>person opens the closet.>7.2>14.6>25.458333333333332
+Z9W47>a person throws some items in a box the smiles.>10.9>15.7>23.083333333333332
+Z9W47>a person opens a door.>0.0>5.9>23.083333333333332
+Z9W47>the person throws some objects in the box.>10.9>15.7>23.083333333333332
+Z9W47>a person opens a closet door with a light on.>0.0>5.9>23.083333333333332
+Z9W47>person they throw something into a box.>10.9>15.7>23.083333333333332
+6C4DV>the person takes a picture.>8.3>15.6>21.916666666666668
+6C4DV>a person runs to the closet.>0.0>4.6>21.916666666666668
+6C4DV>a person runs into a closet.>0.0>4.6>21.916666666666668
+6C4DV>person takes a picture of it.>8.3>15.6>21.916666666666668
+6C4DV>this person runs into the closet.>0.0>4.6>21.916666666666668
+6C4DV>person puts a glass on the shelf.>0.2>7.3>21.916666666666668
+T3L2A>a person is standing in the hallway holding a camera.>3.5>10.8>29.708333333333332
+RTEWJ>person runs to the closet.>0.0>3.5>15.25
+RTEWJ>a person runs into the closet.>0.0>3.5>15.25
+RTEWJ>the person takes a towel.>2.2>9.8>15.25
+SG8ZR>person snuggles with a blanket.>2.2>19.7>49.875
+SG8ZR>the person puts the beer cap into a bag.>33.9>41.4>49.875
+7NLXI>person starts sneezing.>8.4>17.5>25.958333333333332
+CXGSD>person starts tidying up stray clothes.>14.8>29.5>32.916666666666664
+CXGSD>person throws a pillow toward the doorway.>1.5>13.5>32.916666666666664
+R3ZN9>a person is sneezing on a picture.>4.4>13.5>32.916666666666664
+B2NAS>person have a bite to eat.>4.8>18.0>27.583333333333332
+B2NAS>person they are tidying the table.>14.0>25.1>27.583333333333332
+B2NAS>a person is eating a sandwich in the man cave.>4.6>16.9>27.583333333333332
+KOHWO>person they close the laptop.>24.3>32.0>30.708333333333332
+NNUCA>person close the door.>7.0>14.8>24.083333333333332
+NNUCA>starts sneezing.the person proceeds to walk away from the doors.>15.0>19.9>24.083333333333332
+NNUCA>person puts a book down.>0.5>7.4>24.083333333333332
+NNUCA>takes out a pillow.the person closes the doors turn.>3.5>9.8>24.083333333333332
+1YBKW>person getting dressed.>18.3>28.9>30.5
+1YBKW>person begin smiling into the mirror.>0.0>7.7>30.5
+1YBKW>person beings getting dressed.>18.3>28.9>30.5
+1YBKW>person they turn on the light.>10.3>22.0>30.5
+1YBKW>the person turns on a light.>10.3>22.0>30.5
+KXCSL>a person is standing in front of an opening refrigerator.>0.0>3.7>30.083333333333332
+00SL4>a person is opening a closet door.>0.0>2.6>9.0
+9YRHF>person throwing a towel on the floor.>4.7>9.9>23.541666666666668
+9YRHF>a person is sneezing.>0.0>5.3>23.541666666666668
+9YRHF>a person is standing in a closet holding a towel.>0.0>9.0>23.541666666666668
+EF5XT>person begins pouring water in a glass.>7.8>19.7>26.875
+R87CC>a person sits on the sofa.>0.0>2.8>26.875
+R87CC>person open a door.>8.6>15.0>26.875
+N7IH0>the person also opens a bag.>10.6>17.7>35.333333333333336
+N7IH0>person takes out medicine.>19.9>29.1>35.333333333333336
+OHBYF>person closes the box.>18.0>24.8>34.5
+5LE93>person drinks from a glass.>1.2>8.6>21.125
+5LE93>person they are smiling.>7.5>13.4>21.125
+7B8EQ>a person is undressing.>3.3>13.9>32.125
+7B8EQ>person dressing in different clothes.>3.3>13.9>32.125
+QT4WM>a person is opening a cabinet in their closet.>1.4>9.3>37.208333333333336
+QT4WM>a person opens a linen closet.>1.4>9.3>37.208333333333336
+IRGXQ>a person runs through the doorway laughing.>2.7>11.1>28.333333333333332
+IRGXQ>a person runs into a room.>2.7>11.1>28.333333333333332
+RIV6I>a person standing in a doorway sneezing.>0.0>12.4>29.666666666666668
+RIV6I>a person is sneezing on a doorknob.>0.0>12.4>29.666666666666668
+B0BDR>person they are slightly smiling.>6.2>16.7>30.875
+UGQD0>a person is sitting in a chair holding a phone.>0.0>14.6>32.75
+UGQD0>a person is holding a phone.>0.0>14.6>32.75
+V29QF>a person is holding a towel in the hallway.>0.0>5.8>20.541666666666668
+R5CWJ>person another gets dressed in front of a mirror.>13.8>18.0>17.25
+R5CWJ>person two laughing people hug.>1.9>9.6>17.25
+R5CWJ>person two people are laughing.>1.9>9.6>17.25
+R5CWJ>person one starts dressing.>13.8>18.0>17.25
+8SA46>a person is closing the refrigerator.>0.0>3.9>34.875
+0R6K4>a person puts the glass on the table.>18.4>23.9>30.375
+61BEP>person getting up to turn on the light.>30.7>37.0>36.375
+VNQJ0>person another is tidying the area with a broom.>11.2>26.8>31.458333333333332
+23QFL>person begins sneezing.>4.2>12.7>30.958333333333332
+EG0IU>person turning off the light.>10.8>16.1>28.375
+HL4V4>that same person puts a laptop on it.>13.6>21.9>33.125
+HL4V4>the person puts a laptop on it.>13.6>21.9>33.125
+BKNO9>a person runs into the room.>0.5>7.1>24.708333333333332
+BKNO9>a person runs.>0.5>7.1>24.708333333333332
+BKNO9>person throws a towel onto a pile of clothes.>3.1>8.1>24.708333333333332
+OVYAC>a person is throwing clothes all over the room.>1.3>8.5>28.708333333333332
+OVYAC>a person throw a bunch of clothes on the floor.>1.3>8.5>28.708333333333332
+OVYAC>a person takes some clothes out of a bag.>9.9>23.6>28.708333333333332
+5KZLW>a person is sitting in a chair laughing.>9.6>15.4>30.541666666666668
+5KZLW>person one is sitting in a chair laughing.>9.6>15.4>30.541666666666668
+G9IUG>person runs out.>25.6>32.0>30.708333333333332
+QT4W0>person starts dressing.>14.4>24.0>22.708333333333332
+QT4W0>a person runs into their recreation room.>5.0>11.1>22.708333333333332
+CS01T>person sits on their bed.>22.7>35.0>34.791666666666664
+CS01T>person they sit down on the bed.>22.7>35.0>34.791666666666664
+Z9XLJ>a person is walking in a hallway undressing their clothes.>7.5>18.4>24.625
+Z9XLJ>closes the door.the person turns.>15.7>21.5>24.625
+Z9XLJ>takes off their jacket .the person opens a closet door.>11.9>18.8>24.625
+1US0H>a person is sneezing into a wardrobe.>5.8>15.4>29.875
+1US0H>person fixes hair.>15.5>28.1>29.875
+1US0H>person sneezing into a towel.>5.8>15.4>29.875
+2GQDN>person eats a sandwich.>21.2>31.0>30.333333333333332
+2GQDN>a person opens a door.>7.1>15.4>30.333333333333332
+2GQDN>person starts eating them.>21.2>31.0>30.333333333333332
+2GQDN>a person opens the closet.>0.0>6.7>30.333333333333332
+2GQDN>person begins eating the food.>21.2>31.0>30.333333333333332
+W7WJR>person turns on the light.>14.7>21.6>30.583333333333332
+W7WJR>person they turn on the light.>14.7>21.6>30.583333333333332
+3Z1YC>another person walks in holding a broom.>14.8>29.2>31.125
+3Z1YC>one person runs in with a broom.>14.8>27.4>31.125
+I6H4R>person takes the bag.>6.4>11.6>30.541666666666668
+I6H4R>person they turn off the light.>15.9>20.3>30.541666666666668
+VIDIE>person throws the pair of shoes into the corner.>18.0>25.9>27.791666666666668
+9SKPI>a person is tidying up a table.>0.0>17.6>37.0
+9SKPI>person putting dishes on a shelf.>17.0>26.0>37.0
+9SKPI>person begins to tidy up a shelf.>0.0>18.0>37.0
+V00AL>a person talks on the phone.>0.0>7.4>20.708333333333332
+V00AL>person laying down smiling on phone.>13.7>19.4>20.708333333333332
+UY08H>person starts undressing.>0.0>3.6>22.333333333333332
+UY08H>person puts it into the box.>0.0>2.7>22.333333333333332
+V115C>person throws the clothes onto a desk.>18.2>23.0>23.75
+1ZEJJ>person start laughing.>8.7>18.9>21.458333333333332
+70S6Y>a person runs into a bedroom holding a sandwich.>5.2>15.4>22.916666666666668
+70S6Y>person eating a sandwich.>5.2>13.3>22.916666666666668
+70S6Y>person turns off the light.>13.1>19.8>22.916666666666668
+FZIW9>person holding a sandwich.>26.8>34.0>32.75
+0CQL8>a person holding a box opens a closet.>0.3>9.7>28.958333333333332
+WCCY7>person undressing by a cabinet.>1.8>11.3>30.083333333333332
+H40VV>person closes the door.>18.9>24.7>30.958333333333332
+H40VV>person opens the door.>1.4>11.7>30.958333333333332
+NFAA5>another person is in the house talking on the phone.>21.3>32.0>31.291666666666668
+NFAA5>person smiling down the hall.>22.9>32.0>31.291666666666668
+EIZFC>another person is laughing.>24.5>32.0>30.791666666666668
+MGDO2>person closing the door behind them.>24.8>29.0>27.916666666666668
+23Y3I>person putting a towel over a door.>3.4>14.3>30.625
+23Y3I>person they open a door.>12.4>25.5>30.625
+K34BE>person holding a broom.>14.8>18.0>16.75
+U1LFT>person puts it in a box.>16.0>23.2>28.125
+U1LFT>person puts it in the box.>16.0>23.2>28.125
+KVGRN>person looks out the window.>0.0>5.2>20.666666666666668
+4VCHD>the person is eating.>7.3>14.2>35.291666666666664
+4VCHD>person eating a sandwich.>7.7>15.1>35.291666666666664
+4VCHD>a person opens the door to the recreation room.>0.0>3.2>35.291666666666664
+4VCHD>the person sits in a chair.>5.8>11.3>35.291666666666664
+5MRPU>person take a picture of themselves.>27.0>34.4>37.875
+3X6SI>person sits on a chair next to a light.>9.7>16.0>18.083333333333332
+J4QIT>person they open the book.>0.0>4.0>8.166666666666666
+W1SRN>person throws it on the floor.>14.0>19.7>32.416666666666664
+W1SRN>person throws a blanket on the floor.>14.0>19.7>32.416666666666664
+W1SRN>person begin snuggling with the blanket.>20.5>33.0>32.416666666666664
+W1SRN>person opens the cabinet.>6.4>12.2>32.416666666666664
+W1SRN>the person throws the blanket on the floor.>14.0>19.7>32.416666666666664
+W1SRN>a person turns on a light in the hallway.>1.1>6.9>32.416666666666664
+W1SRN>person begins snuggling the blanket.>20.5>33.0>32.416666666666664
+VN8SW>person they put on some shoes.>16.9>33.0>32.5
+VN8SW>person putting on blue tennis shoes.>16.9>33.0>32.5
+E7TLO>the person inside turns around a takes a picture.>24.9>32.0>30.583333333333332
+E7TLO>person takes a picture.>24.9>32.0>30.583333333333332
+KW4Y1>a person is undressing.>0.0>11.1>34.416666666666664
+IEXTB>person laughing at a picture hanging on the wall.>3.4>13.0>32.5
+D09K3>person they begin opening a door.>22.0>30.0>29.375
+NBIR0>one person undresses.>1.5>14.4>32.333333333333336
+NBIR0>person which they close the door.>15.9>23.0>32.333333333333336
+1DL0E>person they pull out a camera to take a picture.>19.7>32.0>31.291666666666668
+1DL0E>person takes a picture.>19.7>32.0>31.291666666666668
+LJS9V>a person is sitting in a hallway smiling.>0.0>5.8>25.291666666666668
+LJS9V>person smiling at the television.>0.0>5.8>25.291666666666668
+670G1>one person is opening the cabinet door.>0.0>5.3>28.458333333333332
+670G1>a person opens a closet.>0.0>6.7>28.458333333333332
+PKRP5>person sits down in a chair.>3.0>11.0>31.5
+TAGS2>a person is laughing on the phone.>6.9>16.3>24.583333333333332
+TAGS2>person closing a door.>17.0>22.7>24.583333333333332
+MOQIU>a person is laughing as the watch tv.>4.9>18.9>28.666666666666668
+MOQIU>person laughing at a video on a laptop.>4.9>18.9>28.666666666666668
+MOQIU>person leaves talking on the phone.>16.8>30.0>28.666666666666668
+61WIS>person they sit down on the sofa.>0.0>5.6>26.916666666666668
+61WIS>person stand up.>20.2>25.5>26.916666666666668
+61WIS>person also putting a pillow onto the ground.>9.6>16.1>26.916666666666668
+61WIS>a person with a laptop sits on a sofa.>0.0>5.6>26.916666666666668
+61WIS>person they take a pillow.>10.1>16.1>26.916666666666668
+ROEB7>person a phone runs to the end of a room.>4.0>10.9>17.166666666666668
+ROEB7>a person runs into a recreation room holding a bag.>4.0>10.9>17.166666666666668
+DEJ35>person lying on the couch who sits up.>25.1>28.0>27.0
+DEJ35>a person awakens.>0.6>8.9>27.0
+DEJ35>person dresses by putting on a jacket.>10.4>22.7>27.0
+G7LU9>person closes door.>10.0>17.2>24.0
+G7LU9>person opens doorknob.>5.0>13.6>24.0
+G7LU9>person opens the door.>5.0>13.6>24.0
+0N7OQ>person begins undressing.>20.1>33.4>36.25
+9IT59>a person holding a pillow walks through a hallway.>0.0>10.1>21.541666666666668
+9IT59>a person is holding a pillow.>0.0>10.1>21.541666666666668
+NKCXF>the person puts down the pillow.>9.8>15.3>27.958333333333332
+YTV2H>person turn off the light.>28.6>33.0>32.541666666666664
+YTV2H>the person puts the water onto the shelf.>10.8>17.5>32.541666666666664
+I8I5F>person starts to laugh happily.>15.5>28.0>27.125
+I8I5F>a person is holding a pillow.>0.0>7.7>27.125
+I8I5F>person holding a pillow.>0.0>7.7>27.125
+82YF1>person puts down a cup.>20.9>25.9>28.666666666666668
+82YF1>person drinks from cup.>14.8>21.6>28.666666666666668
+DVPL2>person drinks from a cup of coffee.>13.3>20.8>28.458333333333332
+DVPL2>the person drinks from the cup.>13.3>20.8>28.458333333333332
+38TA9>a person opens a door.>0.0>4.8>30.583333333333332
+38TA9>while the person was opening the front doorknob.>0.0>4.8>30.583333333333332
+38TA9>person opens a closet door.>0.0>4.8>30.583333333333332
+HKLB1>a person is undressing in front of a mirror.>5.3>18.2>33.0
+HKLB1>person undresses in front of a mirror.>5.3>18.2>33.0
+MC6J7>person take out a vacuum.>19.3>32.6>33.083333333333336
+MC6J7>a person opens the door of a wardrobe.>0.0>6.1>33.083333333333336
+MC6J7>person they throw the clothes in the closet.>11.5>17.7>33.083333333333336
+MC6J7>person walk away smiling.>21.3>33.1>33.083333333333336
+MC6J7>person puts the clothes in the wardrobe.>8.5>17.2>33.083333333333336
+5MDL5>a person puts a broom into a closet.>0.0>5.8>31.833333333333332
+5MDL5>a person puts a broom down inside their closet.>0.0>5.8>31.833333333333332
+7OPHI>a person opening a laptop.>0.0>7.3>33.083333333333336
+7OPHI>a person opens their laptop.>0.0>7.3>33.083333333333336
+7OPHI>the person closes their laptop.>25.0>34.0>33.083333333333336
+X0CVU>person looks out the window.>0.0>12.0>34.291666666666664
+LC1NU>a person is lying on the floor eating a sandwich.>0.0>19.0>38.333333333333336
+LC1NU>person walks down the hallway to turn off the light.>18.7>24.4>38.333333333333336
+NY5LX>person putting clothes in a bag in a wardrobe.>19.8>36.0>34.541666666666664
+QIYU4>person turning off the light.>1.6>6.4>25.958333333333332
+QIYU4>a person opens the door to a closet.>20.0>26.0>25.958333333333332
+QIYU4>person they turn off the light.>1.6>6.4>25.958333333333332
+QXCUP>person takes a few pictures with a camera.>0.0>12.4>38.666666666666664
+QXCUP>person puts clothes away in a closet.>28.6>38.4>38.666666666666664
+QXCUP>person close door.>34.4>40.0>38.666666666666664
+QXCUP>person putting the camera down.>11.0>19.8>38.666666666666664
+QXCUP>the person puts the camera down.>11.0>19.8>38.666666666666664
+20YRU>person holding a box.>0.0>9.9>30.541666666666668
+OA9W5>a person in a closet is smiling.>0.0>4.1>34.5
+OA9W5>person opening a book.>11.6>18.6>34.5
+OA9W5>the person is sitting in a closet eating a sandwich.>0.0>12.4>34.5
+OA9W5>person eating a sandwich.>0.0>12.4>34.5
+Z7QTA>person box are put on a table in the closet.>14.7>23.2>26.791666666666668
+QEFFJ>person drink from a glass that was on the floor.>12.6>25.0>32.416666666666664
+QEFFJ>the person drinks from a glass.>12.6>25.0>32.416666666666664
+6SWTR>person read a book.>18.9>27.0>25.833333333333332
+MNC10>a person throws a broom in the corner.>7.6>14.0>21.125
+PIRMO>the person takes a cup off the shelf.>3.5>8.6>22.5
+PIRMO>person drinking a glass of water the find a box.>4.5>11.2>22.5
+PIRMO>a person in a closet putting a blanket away.>0.4>7.7>22.5
+PIRMO>a person  putting a towel on a shelf.>1.3>8.9>22.5
+PIRMO>person takes a box off the shelf.>10.7>17.1>22.5
+OINMN>a person opens the door to a closet.>33.1>40.0>45.291666666666664
+OINMN>person throws a box onto a shelf.>27.4>35.5>45.291666666666664
+AEZDA>a person is eating some food from a bag.>0.0>9.5>35.041666666666664
+AEZDA>a person eats out of a bag.>0.0>9.5>35.041666666666664
+AD9MO>person turn off a light.>22.7>27.0>25.875
+AD9MO>person off a light.>22.7>27.0>25.875
+AD9MO>a person is putting a broom in the pantry.>1.5>10.2>25.875
+AD9MO>person holding a broom.>0.0>7.3>25.875
+AD9MO>a person is opening a door.>2.4>9.5>25.875
+AD9MO>person they close the door.>18.2>25.6>25.875
+3DO3W>person puts the towel on the chair.>14.0>19.7>19.625
+UBVV7>person takes some food out of a bag.>9.9>18.4>37.208333333333336
+UBVV7>person puts box in closet.>19.2>27.1>37.208333333333336
+UBVV7>person eats small food item.>12.5>25.6>37.208333333333336
+UBVV7>person takes the box.>23.9>35.7>37.208333333333336
+UBVV7>person eats it.>12.5>25.6>37.208333333333336
+UBVV7>person closes box.>19.2>27.1>37.208333333333336
+JI3ZF>the person holds up a towel.>5.3>14.3>26.041666666666668
+KRLT7>person take a picture of the clothes.>10.6>22.8>24.875
+KRLT7>a person is throwing clothes on the floor.>4.7>12.5>24.875
+MJZJM>a person turns on the light.>4.8>10.5>30.25
+17RPG>a person is standing in a hallway smiling.>0.0>9.9>32.416666666666664
+17RPG>person eating the sandwich they are holding.>27.7>33.0>32.416666666666664
+17RPG>person watch themselves eat.>26.7>33.0>32.416666666666664
+17RPG>person they take off their sweater.>26.7>33.0>32.416666666666664
+17RPG>person eating a sandwich.>27.7>33.0>32.416666666666664
+CZPFO>person closes the door.>26.1>36.6>39.583333333333336
+CZPFO>a person opens up a closet door.>26.1>36.6>39.583333333333336
+52WDV>a person is dressing in a walk-in closet.>4.7>14.9>38.041666666666664
+52WDV>person watching their reflection in a mirror.>12.5>21.0>38.041666666666664
+VXF18>person a glass sits down on a couch.>2.2>7.4>46.583333333333336
+VXF18>person starts drinking from a cup.>35.3>43.7>46.583333333333336
+VXF18>the person sits down on the couch.>2.2>7.4>46.583333333333336
+VXF18>the person eats some of the food.>8.7>15.0>46.583333333333336
+VXF18>the person is holding a drink cup.>35.3>43.7>46.583333333333336
+VXF18>a person is eating food from a table.>8.7>15.0>46.583333333333336
+IHGNV>the person opens the bag.>4.4>18.2>29.833333333333332
+IHGNV>a person is holding a bag.>0.0>8.3>29.833333333333332
+U6QKX>person putting it on a shelf.>8.2>14.6>14.333333333333334
+YPZQ2>person takes a bag.>9.3>15.5>26.375
+T03KF>person begin eating it.>21.6>32.0>31.125
+T03KF>person eating some food.>21.6>32.0>31.125
+T03KF>person takes clothes out of a cabinet.>10.6>14.9>31.125
+T03KF>person throwing clothes on the floor.>10.6>19.6>31.125
+T03KF>person throws them on the floor.>10.6>19.6>31.125
+T03KF>person eats food.>21.6>32.0>31.125
+R0OLR>person takes towel off.>0.0>9.3>30.5
+R0OLR>person throws the blanket on a table.>15.7>24.9>30.5
+R0OLR>person stops & starts sneezing.>11.4>19.4>30.5
+R0OLR>a person is running down the hallway holding a blanket.>19.7>26.9>30.5
+R0OLR>a person wrapped in a blanket runs into the room.>19.7>26.9>30.5
+KZ746>a person is sitting in a chair.>3.2>8.2>18.833333333333332
+Z5FNI>person closing the door.>18.3>26.1>27.833333333333332
+Z5FNI>person turning off the light.>12.5>19.0>27.833333333333332
+Z5FNI>person opens a door.>15.1>22.7>27.833333333333332
+WVB7F>person takes some medicine.>27.8>33.3>33.416666666666664
+WVB7F>person takes a blanket.>2.5>18.1>33.416666666666664
+WVB7F>person takes a bottle of medicine.>27.8>33.3>33.416666666666664
+WVB7F>a person is sneezing.>0.0>7.5>33.416666666666664
+75MO8>person drinking a glass of water.>11.3>25.7>29.75
+75MO8>a person runs into the recreation room.>0.0>8.9>29.75
+75MO8>a person runs over to a table.>0.0>8.9>29.75
+1D2OX>a person is putting shoes on a shelf.>6.7>14.1>30.875
+YQOPM>a person throws some clothes into a box.>4.8>18.1>46.583333333333336
+LF49A>a person is opening a bag in the closet.>9.6>16.4>26.375
+QRSP8>person turn off the light.>15.1>19.6>28.666666666666668
+QRSP8>person turns off the light.>15.1>19.6>28.666666666666668
+1R9XW>person closes a closet door.>1.2>9.6>33.75
+H9V9I>a  person is standing holding an open laptop.>0.0>3.5>33.541666666666664
+H9V9I>a person puts their laptop onto a desk.>0.7>12.7>33.541666666666664
+FBHBP>person sits on couch.>1.9>7.3>22.458333333333332
+FBHBP>a person sits on the sofa.>1.9>7.3>22.458333333333332
+FBHBP>person eats some food.>9.5>14.7>22.458333333333332
+FBHBP>person eats the food.>9.5>14.7>22.458333333333332
+CII5H>person opens a closet door.>17.5>23.9>24.333333333333332
+CII5H>person with a blanket in hand open closet door.>17.5>23.9>24.333333333333332
+CII5H>person put clothing on the shelf.>11.0>19.8>24.333333333333332
+CII5H>person closes the door.>17.5>23.9>24.333333333333332
+CPFLM>the person starts throwing clothes onto a chair.>7.7>14.3>22.083333333333332
+CPFLM>a person is sneezing into a pillow.>0.0>9.9>22.083333333333332
+GL38X>another person is watching a picture on the wall.>9.0>19.8>31.5
+7L0TN>a person opens a door.>0.0>6.1>31.583333333333332
+NSDFA>person they put the box down.>20.6>29.2>35.125
+NSDFA>person take a picture.>25.7>36.0>35.125
+CM5SK>a person opens the refrigerator.>0.0>5.1>23.5
+CM5SK>person goes to start reading a book.>9.4>17.5>23.5
+CM5SK>person begins reading a book.>9.4>17.5>23.5
+43UGG>a person is lying on the carpet eating a sandwich.>4.1>11.8>53.083333333333336
+43UGG>person puts on their shoes.>43.4>54.0>53.083333333333336
+43UGG>a person is eating a sandwich on the floor.>4.1>11.8>53.083333333333336
+9JIHR>person kicking a door they stand up.>13.2>20.6>24.916666666666668
+AMLI4>person they pour a glass of water into a dish.>18.5>26.4>30.625
+AMLI4>person pour some water from a bottle into a cup.>18.5>26.4>30.625
+MRXEW>person puts the box down.>19.5>27.2>35.458333333333336
+4ZWLA>another person is sneezing on a vacuum.>16.6>23.2>29.208333333333332
+0XV7B>a person opens a door.>1.2>9.0>35.916666666666664
+KUBPN>person eating sandwich.>2.3>9.4>30.666666666666668
+KNDY2>another person is using a camera to take pictures.>6.4>16.3>21.458333333333332
+KNDY2>person uses a camera to take pictures of the other.>6.4>16.3>21.458333333333332
+8S9AF>person puts a towel on a chair.>19.9>25.6>30.625
+8S9AF>the person puts the towel down.>19.9>25.6>30.625
+3Q3YY>a person closes a door.>1.3>13.8>47.083333333333336
+0GFE8>person runs away.>12.1>19.0>17.916666666666668
+0GFE8>person run out of the room.>12.1>19.0>17.916666666666668
+VXM6A>putting them under the clothes.the person picks a box.>13.0>18.5>30.25
+VXM6A>person they put it in a box.>16.9>23.9>30.25
+VXM6A>a person is sitting on the floor in the closet.>7.2>12.0>30.25
+VXM6A>the person puts the box under the closet shelf.>14.3>20.2>30.25
+VXM6A>put stuff in a box.the person gets up.>16.9>23.9>30.25
+38BDO>person put it on a shelf.>25.8>34.0>33.458333333333336
+38BDO>person puts it on a shelf.>25.8>34.0>33.458333333333336
+38BDO>person they put a blanket in a box.>20.3>34.0>33.458333333333336
+38BDO>person puts a blanket in a box.>20.3>34.0>33.458333333333336
+38BDO>person puts a folded blanket in a box.>20.3>34.0>33.458333333333336
+XWQ3Z>person throws two pillows.>6.4>14.5>18.291666666666668
+O495M>person tidying up a table.>4.0>17.3>29.958333333333332
+O495M>a person is holding a book.>1.0>9.1>29.958333333333332
+3IJGQ>a person is lying down eating a sandwich.>0.0>14.3>30.0
+3IJGQ>person they put the dirty dishes on the table.>12.0>18.1>30.0
+3IJGQ>a person is seen smiling.>0.0>10.1>30.0
+SUI1X>a person is opening a bag.>1.7>10.3>27.583333333333332
+8Z9GW>the person gets dressed.>0.0>14.0>30.708333333333332
+8Z9GW>the person sits on the chair.>11.9>20.8>30.708333333333332
+8Z9GW>a person is standing in their closet dressing for work.>0.0>14.0>30.708333333333332
+NMC5N>person holding a cup of coffee.>0.0>14.0>31.916666666666668
+NMC5N>the person puts the cup of coffee down.>11.0>16.0>31.916666666666668
+FPODN>person sits down on the couch.>5.6>18.1>34.625
+GA4EI>a person is sitting in the closet holding a bag.>20.6>26.9>35.833333333333336
+GA4EI>person the bag lights up.>29.4>35.2>35.833333333333336
+GA4EI>person puts the phone in a closet.>30.3>36.6>35.833333333333336
+GA4EI>person puts it up on the shelf.>24.0>29.1>35.833333333333336
+5F1AW>a person puts a book down onto the shelf.>0.0>5.4>30.958333333333332
+5F1AW>the person puts a book on the shelf.>0.0>5.4>30.958333333333332
+U4W3C>person he puts a book down.>0.0>4.6>28.458333333333332
+U4W3C>one person puts down a book.>0.0>4.6>28.458333333333332
+U4W3C>person sits down to open their book.>17.9>29.0>28.458333333333332
+QU2WL>person they are eating a sandwich.>12.0>19.1>34.25
+QU2WL>person starts eating.>12.0>19.1>34.25
+TUPTT>person sits down to put their shoes on.>25.3>34.0>33.458333333333336
+TUPTT>the person sits on a couch to put shoes on.>25.3>34.0>33.458333333333336
+2DDGF>the person puts a laptop on a shelf.>18.2>25.9>34.833333333333336
+2DDGF>person opens a closet door.>12.1>21.9>34.833333333333336
+2DDGF>the person puts their laptop on a shelf.>18.2>25.9>34.833333333333336
+2DDGF>a person is drinking water from a glass.>0.0>5.3>34.833333333333336
+YQ9ML>person fixes their hair.>8.8>17.3>31.291666666666668
+5KOTU>a person is in a hallway they open a door.>1.1>8.3>38.25
+TIPUS>person watches something visible in the mirror.>10.3>18.0>16.791666666666668
+PXBN0>a person is eating.>24.6>30.0>28.875
+PXBN0>person they start to eat the snack.>24.6>30.0>28.875
+EL3N9>person sits in a chair.>2.5>9.4>36.125
+EL3N9>a person walks in holding a bag of groceries.>2.0>19.9>36.125
+EL3N9>person put the groceries away in the refrigerator.>22.0>35.2>36.125
+DQFF2>person he opens his window.>7.1>13.7>30.791666666666668
+DQFF2>a person is holding a bag.>4.6>19.3>30.791666666666668
+DQFF2>the person opens a window.>7.1>13.7>30.791666666666668
+V25D1>a person is undressing in front of a mirror.>0.0>7.2>28.083333333333332
+V25D1>person begin to eat the sandwich.>8.6>14.4>28.083333333333332
+V25D1>person eating a sandwich.>8.6>14.4>28.083333333333332
+V25D1>a person undresses in front of a mirror.>0.0>7.2>28.083333333333332
+PG32H>a person dresses.>14.5>26.6>52.25
+PG32H>person tidily puts it on a table near a window.>36.4>53.0>52.25
+PG32H>person dressing themselves.>14.5>26.6>52.25
+83XF0>a person opens the door.>0.0>3.9>12.041666666666666
+YJV7W>person takes a picture of a light in the room.>1.8>12.0>27.166666666666668
+YJV7W>the person begins dressing.>9.6>16.6>27.166666666666668
+YJV7W>person turns on the light.>1.8>12.0>27.166666666666668
+YJV7W>person looks at a light.>1.8>12.0>27.166666666666668
+LR6RZ>a person is running to the stove.>2.8>11.4>29.791666666666668
+LR6RZ>a person runs into the kitchen.>2.8>11.4>29.791666666666668
+6J8NE>person closes door.>0.0>5.3>23.583333333333332
+KAU5T>person runs out the door.>21.5>33.0>31.791666666666668
+KAU5T>a person drinks water from a glass.>0.0>14.4>31.791666666666668
+KAU5T>person runs out of the room.>21.5>33.0>31.791666666666668
+RVWK8>person closes the door.>23.4>29.6>31.375
+RVWK8>the person person takes some medicine from the shelf.>18.7>24.0>31.375
+RVWK8>person opens the door.>9.9>17.4>31.375
+RQVJK>person sitting in a chair.>0.0>8.3>30.625
+RQVJK>person they begin sneezing.>0.0>8.3>30.625
+WSB7W>the person opens a laptop.>0.0>8.1>16.833333333333332
+WSB7W>a person is opening a laptop.>0.0>8.1>16.833333333333332
+LU3SU>person they take clothes out of the box.>5.0>12.0>31.208333333333332
+LU3SU>person opens the closet.>0.0>5.1>31.208333333333332
+1W2NR>person walks into room though doorway.>1.6>7.4>32.458333333333336
+1W2NR>person goes to sink to wash their hand.>22.0>29.1>32.458333333333336
+1W2NR>person wash their hands at a sink.>22.0>29.1>32.458333333333336
+1W2NR>person is walking around room wrapped in blanket sneezing.>9.9>16.5>32.458333333333336
+BOOKV>person sitting on the couch.>22.3>32.0>31.375
+N5U8Z>person looks at a picture on the wall.>21.0>37.4>39.291666666666664
+VIN8S>a person is throwing a blanket on the floor.>4.4>15.2>33.875
+VIN8S>person puts blanket on floor.>7.8>12.3>33.875
+VIN8S>person take picture with camera.>13.3>29.5>33.875
+3O474>a person is undressing in their wardrobe closet.>9.2>19.6>31.5
+3O474>person undresses from their clothes.>9.2>19.6>31.5
+UQ93G>person opening a door.>21.2>30.0>29.041666666666668
+SCTNB>the person runs to open a door.>0.5>6.6>31.458333333333332
+SCTNB>person runs through the doorway.>0.0>4.7>31.458333333333332
+SCTNB>person runs back out.>0.0>4.7>31.458333333333332
+SCTNB>a person opens the door.>0.5>6.6>31.458333333333332
+5MF9Y>the person can run with a broom.>0.6>6.5>27.291666666666668
+5MF9Y>person starts to run out of the room.>0.6>6.5>27.291666666666668
+5MF9Y>the person runs in the room holding a broom.>0.6>6.5>27.291666666666668
+BUXV4>a person is putting shoes inside of a box.>1.2>8.1>39.541666666666664
+BUXV4>person smiling at their phone.>16.2>23.4>39.541666666666664
+BUXV4>person holds a phone.>15.0>31.9>39.541666666666664
+NB6F5>the person opens the bag.>0.0>6.7>14.666666666666666
+NB6F5>person turn the light off.>11.4>16.0>14.666666666666666
+NB6F5>person turns off the light.>11.4>16.0>14.666666666666666
+YFI1M>a person begins undressing.>3.9>13.7>27.5
+V4Q75>person eating a plate of food.>2.1>14.3>30.083333333333332
+V4Q75>person eating from it.>2.1>14.3>30.083333333333332
+V4Q75>a person is eating food out of a dish.>2.1>14.3>30.083333333333332
+V4Q75>person they drink some water out of a glass.>10.5>23.3>30.083333333333332
+POU1Z>person turns off the light in the closet.>32.0>36.6>37.75
+OEYA3>a person sits in a chair in the closet.>0.0>11.2>29.75
+OEYA3>the person sits down in a chair.>0.0>11.2>29.75
+OEYA3>the person sits in a chair.>0.0>11.2>29.75
+UB2EJ>person drinking a glass of iced coffee.>0.8>9.1>21.0
+UB2EJ>a person is standing in their hallway dressing.>0.0>4.8>21.0
+XI9LI>person opens the door.>19.6>26.3>31.583333333333332
+YA379>a person walks into the hallway drinking from a cup.>2.7>8.7>25.666666666666668
+F2NAW>a person is just finishing dressing in the doorway.>0.0>11.8>31.25
+F2NAW>person they turn off the light.>16.9>21.8>31.25
+F2NAW>person shutting off the light.>16.9>21.8>31.25
+F2NAW>person close the door.>17.4>26.7>31.25
+S4D1O>person looks out the window.>17.1>24.0>30.625
+LWBPP>a person turns on a light in their closet.>1.8>6.3>9.833333333333334
+LWBPP>person turning the light on.>1.8>6.3>9.833333333333334
+LWBPP>a person turns on the light.>1.8>6.3>9.833333333333334
+OB7UK>person puts a pillow behind his back.>17.5>26.0>31.416666666666668
+LA0DB>a person is dressing next to a light.>3.6>9.7>30.791666666666668
+LA0DB>a person is throwing a pillow at the sofa.>0.0>4.6>30.791666666666668
+LA0DB>a person is throwing pillows on a sofa.>0.0>4.6>30.791666666666668
+LA0DB>person turning on a light.>3.6>9.7>30.791666666666668
+8TDNF>person putting different clothes on.>0.0>5.7>34.041666666666664
+LQO5R>person sitting on the sofa.>25.0>34.0>33.5
+NZY1U>person drinks from the glass.>19.9>28.0>28.083333333333332
+55AH5>a person walks opens a door.>0.0>5.3>25.0
+55AH5>person opens the door.>0.0>5.3>25.0
+55AH5>person eats some food off a plate.>5.1>12.0>25.0
+CS8O0>person holding a laptop.>0.0>8.8>29.5
+CS8O0>person put a laptop on the table.>27.7>31.0>29.5
+CS8O0>the person puts the laptop down.>27.7>31.0>29.5
+CXF35>a person is seen watching videos on their laptop.>2.5>16.4>30.708333333333332
+CXF35>person gets up opens a door to get more lighting.>13.7>20.6>30.708333333333332
+CXF35>person he sits on his bed.>2.6>17.2>30.708333333333332
+CXF35>the person is watching a program on his laptop.>2.5>16.4>30.708333333333332
+L218P>a person throws a bag into a box.>3.0>8.0>21.625
+L218P>a person throws a bag into the cabinet.>3.0>8.0>21.625
+L218P>person throwing a bag on the floor.>3.0>8.0>21.625
+L218P>the person laughs.>10.0>17.0>21.625
+X3FAP>a person takes a laptop off of a desk.>10.5>17.3>36.875
+0PPPL>a person is walking through a doorway.>0.0>7.6>31.916666666666668
+0PPPL>person drinking from a glass.>8.8>14.1>31.916666666666668
+0PPPL>person drinking a glass of water with one hand.>8.8>14.1>31.916666666666668
+1B2P0>the person puts the blanket.>15.4>21.0>24.958333333333332
+BZMLV>person takes some medicine.>13.6>21.5>31.75
+BZMLV>person turns on a light.>1.5>7.6>31.75
+BZMLV>person on the phone turns on the light.>1.5>7.6>31.75
+CRH69>person throw the clothes on the floor.>20.9>25.0>24.291666666666668
+CRH69>person the open a door.>18.2>24.8>24.291666666666668
+CRH69>person throwing them on the floor of another room.>20.9>25.0>24.291666666666668
+Q6ZD9>a person is tidying the clothes from the closet doorway.>10.6>17.8>28.416666666666668
+Q6ZD9>person begins sneezing.>16.3>23.2>28.416666666666668
+5GG5W>a person opens a door to a wardrobe.>0.0>8.0>28.916666666666668
+5GG5W>a person opens a closet.>0.0>8.2>28.916666666666668
+VAXUU>person closing the door behind themselves.>13.7>22.0>21.041666666666668
+VAXUU>person close a door.>13.7>22.0>21.041666666666668
+VAXUU>person begin closing the closet door.>13.7>22.0>21.041666666666668
+3U6OZ>a person closes a window.>1.0>10.6>30.291666666666668
+3U6OZ>person closes a window.>1.0>10.6>30.291666666666668
+3U6OZ>person sits in a chair.>18.6>24.9>30.291666666666668
+AOQ7C>person close the second door.>0.0>6.0>28.291666666666668
+AOQ7C>person runs down the hallway.>7.5>17.4>28.291666666666668
+AOQ7C>person run through to a second door.>7.5>17.4>28.291666666666668
+AOQ7C>a person closed the door.>0.0>6.0>28.291666666666668
+AOQ7C>person closes the door.>0.0>6.0>28.291666666666668
+AOQ7C>person closes a door.>0.0>6.0>28.291666666666668
+CGPBZ>person sit down in a chair.>20.6>36.8>35.833333333333336
+CGPBZ>person start undressing.>26.3>36.1>35.833333333333336
+CGPBZ>person takes off her shoes.>22.0>29.3>35.833333333333336
+40NIM>person as the are holding it the start laughing.>10.0>19.1>30.875
+51J43>another person is running with a bag of food.>5.1>10.6>30.708333333333332
+51J43>a person holding a bag runs through the room.>5.1>10.6>30.708333333333332
+DP7KP>person throws the book.>12.2>17.2>32.708333333333336
+UETKQ>a person is putting a sandwhich in a bag.>15.5>20.7>30.541666666666668
+UETKQ>person puts the bag in a closet.>15.5>20.7>30.541666666666668
+UETKQ>person throws the bag inside.>11.9>19.3>30.541666666666668
+UETKQ>next the person opens the closet door.>18.1>23.1>30.541666666666668
+UETKQ>person puts a sandwich.>0.2>10.1>30.541666666666668
+UETKQ>person puts two sandwiches inside.>0.2>10.1>30.541666666666668
+UETKQ>the person closes the door throws their head back laughing.>23.4>28.2>30.541666666666668
+UETKQ>person opens a door.>13.0>25.7>30.541666666666668
+UETKQ>person laughs at the ceiling.>23.4>28.2>30.541666666666668
+UETKQ>a person opens a bag.>0.0>4.8>30.541666666666668
+1MU5L>a person opens a door.>3.2>9.4>29.583333333333332
+1MU5L>a person is opening a door.>3.2>9.4>29.583333333333332
+IJN3M>person start playing with the camera on their phone.>25.0>42.0>41.458333333333336
+391VK>person putting clothes in a wardrobe.>15.0>20.8>30.125
+02XLP>eating a sandwich in a recreation room / man cave.>18.4>32.0>30.958333333333332
+02XLP>person they take a sandwich from a plate.>13.6>20.1>30.958333333333332
+4EM25>person throwing a pillow in a hallway.>6.4>11.1>18.333333333333332
+4EM25>a person takes a pillow.>6.2>12.7>18.333333333333332
+4EM25>a person is smiling into a phone.>0.0>4.4>18.333333333333332
+HKY1M>person sneezing into a mirror in a hallway.>13.6>19.3>23.708333333333332
+KKGJ8>person looks out a window.>21.4>32.0>30.791666666666668
+KKGJ8>person watches out the window.>21.4>32.0>30.791666666666668
+KKGJ8>person opening the door.>3.7>10.6>30.791666666666668
+KKGJ8>person walks through a doorway.>2.8>10.8>30.791666666666668
+KKGJ8>a person is sitting on a chair.>0.0>5.1>30.791666666666668
+7DZY6>one person is laying on the floor.>0.0>8.1>31.125
+7DZY6>another person is walking into the room holding a broom.>24.2>29.9>31.125
+L09BS>opening a door in a recreation room / man cave.>19.1>27.0>25.666666666666668
+L09BS>the person opens a door.>19.1>27.0>25.666666666666668
+FV9AL>a person is opening a door.>0.0>6.0>29.708333333333332
+8WZRF>person off a light.>10.2>16.9>39.25
+8WZRF>person turns the light off.>10.2>16.9>39.25
+8WZRF>person turns on the light.>3.7>10.4>39.25
+8WZRF>person take a drink of water from a glass.>22.9>32.8>39.25
+8WZRF>person turns light back off.>10.2>16.9>39.25
+8WZRF>person turning the light back on.>3.7>10.4>39.25
+WEJRX>a person laughs as they walk down the hallway.>1.9>10.9>21.708333333333332
+WEJRX>person laughing together.>1.9>10.9>21.708333333333332
+WEJRX>the person opens the door.>8.4>16.4>21.708333333333332
+BBQIS>the person takes a pair of shoes from a box.>11.8>23.7>41.75
+EGNZB>the person put the bag down on a chair.>11.1>20.0>26.708333333333332
+R1DCJ>person throws a phone onto the floor.>10.4>15.7>16.625
+R1DCJ>person throwing candy on floor.>10.4>15.7>16.625
+26YPV>person closes the cabinet door.>0.0>5.1>21.166666666666668
+68QO4>person takes a sandwich from the cabinet.>15.3>23.0>30.583333333333332
+68QO4>person eats it.>19.6>31.3>30.583333333333332
+68QO4>the person puts the book on a table.>14.1>20.1>30.583333333333332
+68QO4>the person closes the book.>11.2>16.9>30.583333333333332
+OMX6W>a person opens a closet door.>0.3>7.2>30.458333333333332
+OMX6W>person starts opening the closet door.>0.3>7.2>30.458333333333332
+4N5P9>person they put their phone on a table.>16.9>24.4>31.833333333333332
+4N5P9>person undressing in their closet.>20.3>27.1>31.833333333333332
+WVOQP>person drinking a glass of water.>20.2>25.7>36.75
+WVOQP>person eating a sandwich.>10.7>17.8>36.75
+646CU>person is holding a light.>7.2>12.8>28.791666666666668
+646CU>the person starts playing with a light.>7.2>12.8>28.791666666666668
+EI17N>another person is smiling.>2.8>9.6>30.291666666666668
+UKLQ1>person walks to turn the light on.>6.9>12.9>32.958333333333336
+UKLQ1>person turning the light on.>6.9>12.9>32.958333333333336
+UKLQ1>person turns on a light.>6.9>12.9>32.958333333333336
+Y3YE1>another person is smiling at a box.>2.0>8.7>32.083333333333336
+40DSU>a person is holding a glass of water.>1.5>7.8>30.458333333333332
+40DSU>a person opened a door.>0.0>4.9>30.458333333333332
+KKONU>person eats the snack.>8.5>18.6>33.25
+KKONU>one person under a blanket awakens.>0.0>9.0>33.25
+KKONU>person throws off the blanket.>2.3>8.8>33.25
+KKONU>person eats something.>8.5>18.6>33.25
+EFR6I>the person holds some papers.>19.0>34.8>34.916666666666664
+ACJBD>person they start dressing by putting a jacket on.>12.2>23.7>38.375
+P3JMV>person putting a glass on a shelf.>18.2>26.4>28.833333333333332
+V8JOH>person closes the door.>15.0>22.0>23.083333333333332
+V8JOH>the person takes some medicine.>0.0>8.7>23.083333333333332
+V8JOH>a person is standing in a doorway holding some medicine.>0.0>8.8>23.083333333333332
+Z3AGB>person opens his closet door to put some cloths away.>0.7>8.9>36.125
+Z3AGB>person turned on the light.>4.3>10.5>36.125
+Z3AGB>person opened the door to the closet.>0.7>8.9>36.125
+Z3AGB>the person put folded clothes on the shelf.>11.2>24.7>36.125
+R0OI6>another person is sitting on a chair laughing.>12.1>24.2>31.0
+R0OI6>person playing on a phone.>14.0>25.4>31.0
+3BVG1>a person puts a broom inside a hallway closet.>16.1>21.7>30.708333333333332
+1UNXY>person drinking a glass of water.>1.0>6.5>24.708333333333332
+1UNXY>person starts tidying up the floor.>13.7>24.4>24.708333333333332
+CA5OI>the person is opening a door.>1.0>7.3>30.333333333333332
+CA5OI>a person is opening a door.>1.0>7.3>30.333333333333332
+D3PPI>person takes a picture.>25.3>34.0>33.458333333333336
+29T54>person they stand up.>1.1>7.9>28.166666666666668
+29T54>a person is sitting in a chair.>0.0>6.4>28.166666666666668
+29T54>a person sits in a chair.>0.0>6.4>28.166666666666668
+29T54>person open the closet door.>12.1>19.3>28.166666666666668
+29T54>person puts in a closet where he removes other clothes.>19.7>29.0>28.166666666666668
+29T54>person takes off some clothes.>19.5>28.2>28.166666666666668
+29T54>the person takes some clothes from the closet.>19.5>28.2>28.166666666666668
+29T54>person opening a wardrobe cabinet to get clothes.>12.1>19.3>28.166666666666668
+T1OQ2>person putting the glass down.>17.7>22.1>30.541666666666668
+CRW0G>a person is sneezing into a mirror.>0.0>3.5>27.0
+CRW0G>person drinks from the glass.>17.6>28.0>27.0
+3V2HJ>a person puts their bag on the table.>7.4>15.0>21.625
+3V2HJ>person she puts something on the table.>7.4>15.0>21.625
+1RNK6>a person is watching something out the window.>0.0>5.0>18.541666666666668
+1RNK6>person running with a box.>9.2>14.2>18.541666666666668
+1RNK6>a person is looking out a window.>0.0>5.0>18.541666666666668
+1RNK6>person take out a box.>7.2>12.5>18.541666666666668
+1RNK6>person run out of the room.>9.2>14.2>18.541666666666668
+4PCSC>throws clothes to another person awakening from under a blanket.>15.0>23.0>26.958333333333332
+4PCSC>person is pouring water into a glass.>0.0>7.0>26.958333333333332
+4PCSC>person pouring a glass of water from a jar.>0.0>7.0>26.958333333333332
+4PCSC>wakes up as person 1 throws clothes on them.>17.0>21.8>26.958333333333332
+XC9EY>the person puts a glass down on a table.>15.9>21.5>25.333333333333332
+XC9EY>person putting  a glass on a table.>15.9>21.5>25.333333333333332
+BEUCN>person they stand up.>11.2>17.7>27.041666666666668
+9FHVW>person begins to drink from the cup.>23.6>30.8>29.541666666666668
+9FHVW>the other person opens the cabinet.>16.0>21.5>29.541666666666668
+1TGKL>person drink something out of the glass.>14.6>26.5>31.041666666666668
+1TGKL>person drinks something from a glass.>14.6>26.5>31.041666666666668
+ZK05Q>one person takes a book from a bathroom shelf.>6.2>15.0>29.416666666666668
+SEDKM>person laughs some more.>0.5>6.5>31.833333333333332
+SEDKM>person laughing at a picture.>0.5>6.5>31.833333333333332
+SEDKM>one person with hair in a towel laughs.>0.5>6.5>31.833333333333332
+J06RS>a person in a hall smiling.>0.0>11.0>33.25
+J06RS>the person is smiling.>0.0>11.0>33.25
+J06RS>person laughing bends over.>2.7>9.0>33.25
+J06RS>a person is laughing in the doorway.>2.7>9.0>33.25
+HOI88>person sits on the sofa.>11.7>21.6>34.166666666666664
+HOI88>person holding a book.>10.7>17.4>34.166666666666664
+HOI88>one person is sitting on the couch.>11.7>21.6>34.166666666666664
+GQ4ML>person puts it on the shelf next to a book.>6.5>19.1>30.5
+3YVPG>person putting down the glass.>19.4>25.5>41.125
+3YVPG>the person lays down on the floor with a blanket.>32.0>39.0>41.125
+3YVPG>person pours it in a glass.>8.5>18.3>41.125
+3YVPG>person pouring a glass of wine.>8.5>18.3>41.125
+3YVPG>a person is sneezing into a sandwich.>18.0>32.0>41.125
+3YVPG>the person pours a glass of wine.>8.5>18.3>41.125
+3YVPG>person sits on the floor with it.>30.5>35.7>41.125
+1BEFM>person they eat a cookie.>1.8>9.8>29.375
+1BEFM>person they are eating something from a bowl.>1.8>9.8>29.375
+1BEFM>person eating food.>1.8>9.8>29.375
+DVTAR>another person walks around eating a sandwich.>10.9>17.3>21.291666666666668
+0F0WE>person runs back to the middle of the hall.>1.3>10.4>33.458333333333336
+0F0WE>the person runs down the hall checking doors.>1.3>10.4>33.458333333333336
+0F0WE>person starts to read a notebook found on the floor.>21.6>34.0>33.458333333333336
+0F0WE>a person is running down the hallway closing doors.>6.5>13.9>33.458333333333336
+T9ZNR>person takes out their vacuum.>2.6>11.3>20.708333333333332
+IKZJE>person takes a photo of the picture.>23.0>33.8>64.79166666666667
+KPXQ0>person starts sneezing.>17.2>24.4>30.083333333333332
+PNVRJ>person still sneezing.>0.0>11.9>30.916666666666668
+YOVS5>person the stand up.>5.6>13.7>23.041666666666668
+YOVS5>person close the door.>15.8>22.9>23.041666666666668
+YOVS5>person leave through a doorway closing the door behind them.>15.8>22.9>23.041666666666668
+YOVS5>a person awakens on a floor.>1.1>8.5>23.041666666666668
+RS4ZC>person takes a picture of it.>10.4>20.1>30.958333333333332
+RS4ZC>person takes a cellphone picture with it.>10.4>20.1>30.958333333333332
+RS4ZC>the person runs down the hall.>18.9>26.2>30.958333333333332
+RS4ZC>a person is eating food.>0.0>4.0>30.958333333333332
+RS4ZC>a person eats a snack.>0.0>4.0>30.958333333333332
+NDD35>a person runs down a hallway holding a blanket.>0.0>11.9>29.25
+ITJZB>a person is in a recreational room undressing.>0.0>8.8>24.791666666666668
+ITJZB>person they sit down on a sofa.>16.0>26.0>24.791666666666668
+ITJZB>person putting their clothes in a bag.>8.0>15.3>24.791666666666668
+FDPHZ>person turns off a light.>14.9>21.0>30.708333333333332
+FDPHZ>person turns off the light.>14.9>21.0>30.708333333333332
+LCZ8F>a person slid open a door of a closet.>0.0>5.3>26.041666666666668
+ZP8AL>the person throws the pillow back out through the doorway.>10.7>16.4>30.958333333333332
+ZP8AL>a person runs into the room.>13.0>19.0>30.958333333333332
+ZP8AL>person throwing the pillow onto the floor.>10.7>16.4>30.958333333333332
+ZP8AL>a person runs through a doorway holding a pillow.>5.6>16.1>30.958333333333332
+ZP8AL>person holding a pillow.>5.6>16.1>30.958333333333332
+537I0>person closes the door.>7.3>17.8>21.333333333333332
+537I0>a person puts a broom in the closet.>1.6>11.9>21.333333333333332
+4MKH4>person holds a tray of dishes in the hallway.>6.9>14.5>30.5
+NDBXV>person they take a camera from a shelf.>17.7>23.7>45.208333333333336
+LB006>another person takes an item out the box.>13.4>16.0>15.416666666666666
+8L9AJ>a person takes out a laptop.>13.7>20.3>32.416666666666664
+8L9AJ>person takes a laptop out of a box.>13.7>20.3>32.416666666666664
+8L9AJ>the person closes the box.>18.6>31.2>32.416666666666664
+UD7R8>a person puts on their shoes.>0.6>12.7>30.458333333333332
+UD7R8>person putting on their shoes.>0.6>12.7>30.458333333333332
+VSYFA>the person eats the food out of the bag.>0.0>5.1>31.125
+VSYFA>person starts eating some food.>0.0>5.1>31.125
+VSYFA>person sits down on a chair.>0.0>2.8>31.125
+VSYFA>person sitting down with something to eat.>0.0>5.1>31.125
+VSYFA>person walks out a doorway.>18.0>32.0>31.125
+VSYFA>a person undresses their shirt.>0.0>3.9>31.125
+UJXLL>a person takes some clothes off a chair.>2.0>16.1>29.583333333333332
+8ML3S>a person is running around their closet.>0.0>7.2>31.5
+L37YS>a person is opening the door to a closet.>0.0>11.9>31.375
+TOOYI>the person places the box in the closet.>12.2>19.1>23.875
+TGKHG>the person is eating a sandwich.>17.7>35.4>38.291666666666664
+TGKHG>person walks through the doorway.>1.6>8.5>38.291666666666664
+TGKHG>a person opens the door.>1.5>7.4>38.291666666666664
+ARESU>a second person walks over to the table holding bags.>0.5>5.6>31.0
+RQRR6>person close the laptop.>16.7>24.5>33.625
+JCKRL>a person is walking through a doorway.>0.0>7.8>36.0
+JCKRL>person walks in through a doorway.>0.0>7.8>36.0
+W4C5O>a person drinks from a glass.>0.0>8.2>30.75
+W4C5O>person holding a towel.>15.2>21.9>30.75
+W4C5O>person holds up a towel.>15.2>21.9>30.75
+A84J7>person turn off the lights.>13.4>19.2>24.416666666666668
+W9HYI>person start eating.>4.9>20.5>31.541666666666668
+W9HYI>person eating it on the stairs.>4.9>20.5>31.541666666666668
+S4UF8>person open the closet door.>26.6>32.3>31.75
+S4UF8>person drinking a cup of coffee.>3.6>10.9>31.75
+320VL>a person is watching a television.>0.0>14.0>31.083333333333332
+DVM8I>person opens a door.>9.1>14.8>30.375
+B5R5B>a person runs in.>0.0>6.1>31.416666666666668
+B5R5B>the person takes out their phone.>1.5>7.5>31.416666666666668
+B5R5B>a person runs inside excitedly with a sandwich in hand.>0.0>6.1>31.416666666666668
+B5R5B>a person runs down the hallway.>0.0>6.1>31.416666666666668
+3MIWR>person start sneezing.>8.3>13.0>25.25
+3MIWR>person begins sneezing.>8.3>13.0>25.25
+SRTW8>a person lies on a couch.>8.2>15.3>17.625
+SRTW8>the person is smiling.>10.1>18.1>17.625
+SRTW8>a person awakens on a fold-up bed.>5.9>12.3>17.625
+GY9MZ>person they take off their shoes.>26.7>36.0>35.208333333333336
+9JPV3>a person closes the closet door.>0.0>3.6>29.041666666666668
+9JPV3>a man closes a closet door.>0.0>3.6>29.041666666666668
+KRZW8>person checks their cellphone smiling.>28.0>33.0>31.583333333333332
+KRZW8>person starts laughing.>21.0>32.0>31.583333333333332
+KJ428>a person closes a door.>0.0>3.6>31.75
+CSQLJ>a person is sneezing on a dusty book.>1.8>7.2>31.416666666666668
+XBTN7>person drinks from a bottle of water.>13.2>21.5>25.958333333333332
+XBTN7>a person throws a pile of clothes onto the sofa.>1.3>9.3>25.958333333333332
+XBTN7>the person drinks from a bottle of water.>13.2>21.5>25.958333333333332
+XBTN7>person throws clothes on the sofa.>1.3>9.3>25.958333333333332
+QHNTC>the person puts the laptop on a table.>18.1>28.7>30.0
+K7PVL>a person is putting away the groceries.>9.0>20.4>31.0
+YJ06D>the person turns the light on.>13.9>19.5>35.375
+YJ06D>person turns on the light.>13.9>19.5>35.375
+5ZDNU>a person standing in their closet starts undressing.>0.0>8.3>23.333333333333332
+5U92L>a person is undressing.>4.0>12.0>24.125
+5U92L>a person undresses.>4.0>12.0>24.125
+5U92L>person throws clothes on a book.>7.2>12.7>24.125
+DEZJ5>a person opens a closet door.>14.2>20.0>24.583333333333332
+DEZJ5>the person opens the door which is for a closet.>14.2>20.0>24.583333333333332
+DEZJ5>the person reacts by laughing.>10.0>16.0>24.583333333333332
+DEZJ5>the person is closing the door.>14.2>20.0>24.583333333333332
+DEZJ5>person is opening door to get box of shoes.>0.0>2.8>24.583333333333332
+DEZJ5>person starts laughing.>10.0>16.0>24.583333333333332
+KS29V>a person is holding a pillow.>0.0>6.2>60.083333333333336
+KS29V>person holding a pillow.>0.0>6.2>60.083333333333336
+PGGRZ>person throws a pillow.>0.4>5.5>12.5
+PGGRZ>a person is throwing a pillow.>0.4>5.5>12.5
+SZYJO>the person puts a few bowls on a table.>26.1>32.0>30.541666666666668
+SZYJO>the person is sneezing in front of the laptop.>5.0>13.1>30.541666666666668
+X75PJ>a person is running in place.>0.0>12.4>28.375
+X75PJ>person finally turning off a light in a hallway.>24.8>29.0>28.375
+X75PJ>person running in place.>0.0>12.4>28.375
+X75PJ>a person is sneezing.>3.0>11.7>28.375
+X75PJ>person turn off the light.>24.8>29.0>28.375
+YBXCT>person open the closet.>1.9>8.4>27.625
+YBXCT>a person is near a closet holding a towel.>6.7>15.0>27.625
+8X7D6>another person closes a laptop.>22.9>28.0>32.708333333333336
+8X7D6>person watches the television.>20.2>27.0>32.708333333333336
+8X7D6>person closes the laptop.>22.9>28.0>32.708333333333336
+NL7BY>the person is sitting down looking through a book.>0.0>6.6>13.541666666666666
+573OJ>another person turns off a light.>26.6>31.0>30.875
+573OJ>person turns off the light.>26.6>31.0>30.875
+5657O>a person is undressing.>0.0>13.4>31.0
+5657O>person take a picture of them self.>20.9>32.0>31.0
+5657O>person takes off their shoes.>10.2>18.2>31.0
+LCEM0>person they eat a grape.>0.2>12.6>31.291666666666668
+LCEM0>person put the plate on the table,.>23.8>29.2>31.291666666666668
+LCEM0>person eating some groceries that the just bought.>0.2>12.6>31.291666666666668
+LKYCT>person eating a sandwich.>10.3>24.8>30.416666666666668
+LKYCT>person drink a glass of water.>22.6>31.0>30.416666666666668
+LKYCT>person drinking a glass of milk.>22.6>31.0>30.416666666666668
+KRRBE>person they stand up.>5.0>11.1>18.791666666666668
+KRRBE>person walk through a doorway.>11.6>18.5>18.791666666666668
+KRRBE>a person is sitting on a chair using a tablet.>0.0>8.6>18.791666666666668
+KRRBE>a person is looking at a book.>0.0>9.3>18.791666666666668
+KRRBE>person looking at a picture.>0.0>8.9>18.791666666666668
+NLM0B>person they close the box.>10.6>15.6>33.083333333333336
+UECH4>person sneezing into a mirror in a hallway.>18.8>31.0>32.041666666666664
+ET224>person closing the door behind him.>50.3>56.1>61.166666666666664
+ET224>person opened a door.>48.2>54.0>61.166666666666664
+BWKJB>a person takes a blanket from a chair.>0.0>4.4>17.375
+JH47V>the man pours mountain dew into a glass.>0.0>17.0>37.0
+C1F1D>person talk on a phone.>16.8>30.0>29.166666666666668
+C1F1D>person the put the cup down.>12.8>17.3>29.166666666666668
+C1F1D>person drinking a cup of coffee.>0.0>5.7>29.166666666666668
+C1F1D>person starts talking on phone.>16.8>30.0>29.166666666666668
+KWQKH>person drink coffee out of a glass open closet door.>3.8>12.3>23.458333333333332
+KWQKH>person they begin opening the closet.>8.2>13.7>23.458333333333332
+KWQKH>person takes a vacuum out the closet.>10.0>17.0>23.458333333333332
+KWQKH>person turns off the light.>17.0>21.5>23.458333333333332
+KWQKH>person take out a vacuum.>10.0>17.0>23.458333333333332
+KWQKH>person closes the door.>9.0>20.0>23.458333333333332
+YIM12>the smiling person enters.>24.9>32.0>30.583333333333332
+EI5M3>a person opens a closet door.>0.0>8.2>22.708333333333332
+EI5M3>person puts in a clean towel.>7.1>14.9>22.708333333333332
+EI5M3>person open a closet door.>0.0>8.2>22.708333333333332
+EI5M3>a person opens the wardrobe in a closet.>1.1>7.0>22.708333333333332
+EI5M3>person putting a towel on the shelf.>7.1>14.9>22.708333333333332
+X4YHQ>person sitting down in a chair.>10.4>28.9>57.791666666666664
+CM293>person opens a closet.>7.0>16.0>29.458333333333332
+CM293>a person is walking down the hallway eating a sandwich.>0.5>9.4>29.458333333333332
+CM293>person eating a sandwich.>0.5>9.4>29.458333333333332
+CM293>person eats a bite of sandwich.>0.5>9.4>29.458333333333332
+CM293>person they open a closet.>7.0>16.0>29.458333333333332
+47I6H>the person reaches to turn the light on.>12.0>17.9>18.666666666666668
+47I6H>person turned on the light.>12.0>17.9>18.666666666666668
+2XT4N>person runs out of the room.>13.6>18.9>19.541666666666668
+YRPAR>a person is holding a laptop.>1.7>9.0>18.5
+RUMS5>person switches on the light to find some homework.>5.1>11.5>36.541666666666664
+RUMS5>person opens the door.>0.0>5.5>36.541666666666664
+RUMS5>person runs out.>24.3>29.6>36.541666666666664
+RUMS5>person grabs a flashlight.>5.1>11.5>36.541666666666664
+RUMS5>another person is laughing.>24.3>29.2>36.541666666666664
+RUMS5>one person runs into the closet.>24.3>29.6>36.541666666666664
+RUMS5>another person runs in.>24.3>29.6>36.541666666666664
+RUMS5>person closing the door.>21.6>27.9>36.541666666666664
+RUMS5>person closes the door to the closet.>21.6>27.9>36.541666666666664
+MZK2X>person takes a picture with the camera.>18.6>27.8>27.875
+MZK2X>person takes a picture.>18.6>27.8>27.875
+SA9PB>a person is eating a snack.>3.3>9.0>31.208333333333332
+SA9PB>person underneath a blanket.>3.3>9.0>31.208333333333332
+SA9PB>a person eats food.>3.3>9.0>31.208333333333332
+ZOTR8>person put the shoe down.>6.7>15.0>31.583333333333332
+ZOTR8>person begins laughing.>11.6>19.9>31.583333333333332
+00X3U>person shutting the closet door behind them.>14.9>20.5>21.125
+00X3U>person grabbing a blanket leaving the closet shutting the door.>14.9>20.5>21.125
+00X3U>person run away.>17.1>22.0>21.125
+5UNDJ>person eating some food.>98.1>178.9>194.375
+5UNDJ>person took something to eat from out of the bowl.>98.1>178.9>194.375
+5UNDJ>the person eats the apple.>98.1>178.9>194.375
+00N38>person opens a door.>14.3>20.8>24.541666666666668
+EBJN1>person they look out the window.>20.7>36.0>34.666666666666664
+EBJN1>person looking out the window in the living room.>20.7>36.0>34.666666666666664
+IHSRC>person laughs at the picture.>26.1>32.0>31.25
+IHSRC>the person looks at a picture on the wall.>17.0>32.0>31.25
+75RPN>person takes a pillow.>10.2>16.8>21.416666666666668
+JYBGS>person runs toward the doorway.>6.4>13.3>19.5
+JYBGS>person runs out of the hallway.>6.4>13.3>19.5
+JYBGS>a person walks into a hallway holding a pillow.>2.5>9.1>19.5
+D2ORL>a person is on the phone laughing.>30.8>41.0>40.041666666666664
+MH601>person holding clothes.>0.0>7.1>30.875
+MH601>a person is laughing.>0.0>6.3>30.875
+Q18ZQ>person opens a closet.>2.5>13.4>42.958333333333336
+Q18ZQ>person closes the door.>33.3>41.4>42.958333333333336
+Q18ZQ>a person is holding a towel.>0.0>13.0>42.958333333333336
+Q18ZQ>person put the towel.>8.3>19.6>42.958333333333336
+VUSFK>person holding a phone.>15.7>22.9>28.833333333333332
+LRPBA>a smiling person runs into their closet holding a mirror.>0.0>9.6>19.791666666666668
+LRPBA>person drinks from a glass in a closet.>7.7>13.3>19.791666666666668
+LRPBA>a person runs in place.>0.0>9.6>19.791666666666668
+52D5Q>a person is laughing into a phone.>0.0>4.2>31.125
+52D5Q>a person is talking on the phone.>0.0>6.4>31.125
+5X5DT>person close the laptop.>10.6>23.8>28.833333333333332
+5X5DT>person holding a laptop on their lap.>0.0>11.8>28.833333333333332
+5X5DT>person closes the laptop.>10.6>23.8>28.833333333333332
+MILRI>a person is opening a closet.>2.1>9.6>28.625
+Y9930>the person opens a door.>10.1>19.1>20.958333333333332
+97Y6T>a person is talking on a phone.>0.0>7.4>31.625
+97Y6T>a person sits talking on their phone.>0.0>7.4>31.625
+KVYOZ>person they stand up.>0.0>2.6>8.125
+KVYOZ>a person sits on the floor.>0.0>2.5>8.125
+EJL2F>a person opens a door.>0.0>5.8>30.625
+EJL2F>person turns the light on.>3.2>8.4>30.625
+EJL2F>person opens the door.>0.0>5.8>30.625
+EJL2F>person turns on the light in the recreation room.>3.2>8.4>30.625
+EJL2F>person turns on a light.>3.2>8.4>30.625
+MDXF4>person closes the door.>6.1>12.2>34.458333333333336
+MDXF4>person opens the closet door.>6.1>12.2>34.458333333333336
+MDXF4>person was drinking a glass of water.>16.1>23.5>34.458333333333336
+MDXF4>another person drinking a glass of water walks in.>16.1>23.5>34.458333333333336
+45Z2A>a person awakens on the couch.>0.0>4.1>9.333333333333334
+3VRTT>person running away.>5.9>12.0>15.833333333333334
+WHVP2>person put it on a table.>0.0>4.0>30.583333333333332
+FI2DL>one person runs through playing a game.>7.4>15.6>20.541666666666668
+KG2LF>person turns off the lights.>23.6>28.9>31.083333333333332
+KG2LF>person turns off the light.>23.6>28.9>31.083333333333332
+KG2LF>person they throw it on the floor.>13.5>19.2>31.083333333333332
+KG2LF>the person throws their clothes on the floor.>13.1>18.5>31.083333333333332
+IXJKT>person runs out of the room.>21.7>26.8>25.708333333333332
+IXJKT>person runs out of the hallway.>21.7>26.8>25.708333333333332
+O8PO3>person runs away.>12.8>18.1>19.916666666666668
+GLOMM>person opens the closet.>0.0>4.0>11.25
+K7E8L>a person is tidying the hall with a broom.>0.0>11.5>38.041666666666664
+X16WJ>a person sits down in a chair.>0.0>2.8>14.791666666666666
+X16WJ>person puts the cup on the floor.>0.0>4.3>14.791666666666666
+X16WJ>a person sitting down in a chair.>0.0>2.8>14.791666666666666
+EN0CD>person they start undressing by taking their clothes off.>19.0>32.1>33.625
+EN0CD>a person in the hallway is running around.>0.0>15.3>33.625
+EN0CD>a person runs into the hallway.>0.0>15.3>33.625
+X3LEM>person sits down on a sofa,.>26.7>32.0>31.0
+X3LEM>person b begins to sit on a couch.>26.7>32.0>31.0
+X3LEM>person turning on a light.>13.5>19.4>31.0
+X3LEM>the person turns off the light.>10.3>21.5>31.0
+X3LEM>another person takes a phone from a table.>22.5>29.0>31.0
+61RMD>person puts the camera on a table.>0.0>11.9>31.0
+ILQ2R>person they turn off the light.>17.3>23.3>32.041666666666664
+Y25DQ>a person opens a door.>8.4>17.2>31.625
+Y25DQ>person opens the door.>8.4>17.2>31.625
+CRTUY>person throw something on the floor.>17.7>22.1>26.583333333333332
+CRTUY>person closes the door to it.>22.1>28.0>26.583333333333332
+CRTUY>a person puts a bag.>4.9>10.9>26.583333333333332
+EWCV4>person takes his shoes off.>8.4>17.1>30.25
+EWCV4>a man is laying on a floor in the doorway.>0.0>6.7>30.25
+KWONB>a person is throwing clothes into a closet.>2.0>8.4>29.625
+KWONB>a person opens the closet door.>0.0>6.3>29.625
+6CMWO>a person is undressing.>0.0>6.8>31.541666666666668
+6CMWO>person starts laughing.>19.9>27.8>31.541666666666668
+0EGNU>person they put the pillow on a chair.>0.7>9.0>45.333333333333336
+OVMCM>the person takes a towel from the shelf.>12.9>19.8>30.958333333333332
+OVMCM>a person awakens sitting in a chair.>0.0>12.2>30.958333333333332
+OVMCM>a person awakens in a chair in their recreation room.>0.0>4.3>30.958333333333332
+8K380>person the other was sneezing into a pillow.>16.8>32.0>30.791666666666668
+EIK9W>person holding a cup.>0.5>6.8>35.916666666666664
+D7KU2>a person is putting a broom in a corner.>7.7>14.1>31.041666666666668
+E6IL3>a person is sitting on the floor reading a magazine.>0.0>3.8>31.25
+E6IL3>a person is smiling.>0.0>3.7>31.25
+E6IL3>person reading a book.>0.0>3.1>31.25
+GR5N6>person they stand up.>10.1>18.0>16.916666666666668
+GR5N6>person throw the book across the room.>10.2>17.9>16.916666666666668
+GR5N6>person throw the book through a doorway.>10.2>17.9>16.916666666666668
+YAPN7>person sits on the couch.>2.6>17.5>41.375
+YAPN7>person takes a bite from a piece of food.>22.4>38.4>41.375
+YAPN7>a person undresses in the recreation room.>2.3>6.6>41.375
+YAPN7>person eating some food from a bag.>3.8>8.6>41.375
+85OEC>person sitting on the sofa.>28.0>35.5>36.791666666666664
+JVISI>person takes off his shoes.>21.7>35.6>37.583333333333336
+JVISI>person he takes a drink from the cup.>31.8>39.0>37.583333333333336
+EFI64>person watching laptop kept something on the desk.>18.0>26.9>30.375
+EFI64>person watching something in the laptop drinking some coffee.>18.0>26.9>30.375
+OLSMC>a person is sneezing into the mirror.>0.0>4.1>8.5
+Z6HSZ>person they close a nearby open door.>19.4>26.5>30.416666666666668
+Z6HSZ>person eating a sandwich who walks to the bathroom.>12.3>21.3>30.416666666666668
+Z6HSZ>person eating a sandwich.>12.3>21.3>30.416666666666668
+GF6TR>person puts something else on the shelf.>4.1>9.4>31.958333333333332
+GF6TR>the person runs into the closet.>0.0>4.9>31.958333333333332
+GF6TR>person throws the pillow onto a shelf.>4.2>9.2>31.958333333333332
+GF6TR>person holding a pillow.>0.0>9.0>31.958333333333332
+TCGAY>person they put a glass onto a chair.>24.7>31.9>31.458333333333332
+TCGAY>person start tidying themselves with a towel.>21.3>32.0>31.458333333333332
+A0ZW3>the person is awakening on a blanket.>9.0>15.8>32.458333333333336
+X4CZH>person off a light switch.>3.6>10.3>34.916666666666664
+X4CZH>person turned on the light.>3.6>10.3>34.916666666666664
+X4CZH>a person is looking out a window.>0.0>6.0>34.916666666666664
+X4CZH>opening it the person fixed the light bulb!.>3.6>10.3>34.916666666666664
+X4CZH>person take the light bulb from over head.>3.6>10.3>34.916666666666664
+TFQNW>person goes to the window to run in place.>13.7>21.0>20.375
+GQR08>a person awakens holding a bag.>0.0>7.6>31.333333333333332
+KK8N9>person takes a phone off a shelf.>5.7>11.0>12.208333333333334
+KK8N9>person so they start laughing.>7.8>13.0>12.208333333333334
+ONT61>a person puts a towel onto the shelf.>5.0>18.0>31.75
+ONT61>person looks at the picture on the wall.>16.9>23.1>31.75
+GFVSV>person puts the cup down.>16.2>25.7>39.5
+GFVSV>person open the book.>22.3>34.0>39.5
+GFVSV>person opens a book to start reading.>22.3>34.0>39.5
+OSENM>person holding a camera.>25.0>34.0>33.125
+OSENM>person attempting to take a picture of themselves.>24.7>34.0>33.125
+8RSZ4>a person looks out the window.>1.9>12.7>28.833333333333332
+8RSZ4>person they look out the window.>1.9>12.7>28.833333333333332
+WLA52>the person puts down the blanket.>15.8>23.0>35.125
+WLA52>person puts down the blanket.>15.8>23.0>35.125
+TMATS>person puts shoes on pillow.>12.1>17.9>30.958333333333332
+UAWXI>a person runs into a room holding an envelope.>0.0>9.5>31.125
+UFVO8>person closed the door.>7.6>13.2>15.666666666666666
+UFVO8>a person opens a door.>3.0>9.8>15.666666666666666
+FVSB0>a person opens a cabinet.>0.0>5.0>34.541666666666664
+FVSB0>a person holding clothes puts them in the wardrobe.>12.5>21.3>34.541666666666664
+9D2T4>a person is in the hallway throwing a pillow.>4.2>9.6>30.916666666666668
+N8R3F>person throws a pair of shoes at a shelf.>3.9>9.2>19.666666666666668
+N8R3F>person throws some shoes on the floor.>3.9>9.2>19.666666666666668
+TE421>person closes the door.>23.3>33.0>31.958333333333332
+TE421>a person takes some medicine.>1.2>6.5>31.958333333333332
+TE421>person talking on the phone.>19.1>33.0>31.958333333333332
+TE421>another person with a phone closes the door.>23.3>33.0>31.958333333333332
+82XWA>a person is awakening.>0.0>10.2>24.125
+KX90W>person walks through a doorway.>0.0>4.9>29.458333333333332
+KX90W>the person opens a closet door.>0.9>9.1>29.458333333333332
+LPR6Z>person turning the light off.>28.1>33.0>34.541666666666664
+LPR6Z>person cuts the light off.>28.1>33.0>34.541666666666664
+WTFOC>person they open a closet door.>18.4>23.0>21.791666666666668
+AQ69X>person puts on a pair of shoes.>0.1>12.7>30.25
+AQ69X>person putting on shoes.>0.1>12.7>30.25
+RY8ZS>a person is washing a mirror with a blanket.>0.0>15.1>30.208333333333332
+IWMW1>a person is drinking a glass of water.>6.5>12.3>27.5
+IWMW1>person they tidy some dishes off the floor.>12.2>25.8>27.5
+CH8XJ>person open the closet.>13.5>20.1>28.166666666666668
+CH8XJ>the person starting throwing shoes into their closet.>16.9>25.4>28.166666666666668
+CH8XJ>person throw shoes inside.>16.9>25.4>28.166666666666668
+R4FOQ>a person is opening a cabinet.>0.0>3.0>6.166666666666667
+8CJML>person snuggle with a pillow they got from a table.>17.6>30.0>29.333333333333332
+WJNJJ>a person is watching television.>6.8>12.2>27.458333333333332
+WJNJJ>a person is standing in a closet holding a doorknob.>0.9>10.6>27.458333333333332
+WJNJJ>person they are watching television.>6.8>12.2>27.458333333333332
+TF6P8>a person puts a box in a closet.>4.8>14.0>27.583333333333332
+I8LEO>person sneezing on a doorknob.>9.6>20.5>28.708333333333332
+WJL39>the person is finishing dressing.>0.0>11.0>30.0
+WJL39>person opening a door.>22.0>29.2>30.0
+2FL0X>a person is running down the hallway.>1.0>6.8>32.958333333333336
+2FL0X>person opens the door.>2.8>9.6>32.958333333333336
+2FL0X>the person runs to the basement.>1.0>6.8>32.958333333333336
+2FL0X>person opens a door.>2.8>9.6>32.958333333333336
+IM4UD>a person is undressing.>0.0>8.3>30.625
+T9BED>a person opens a closet door.>0.0>5.7>25.416666666666668
+T9BED>a person is drinking water out of a glass.>14.6>22.9>25.416666666666668
+A18EX>another person is laughing at a doorknob.>17.3>31.0>30.458333333333332
+A18EX>person #2 stood near the bed smiling at person #1.>18.7>31.0>30.458333333333332
+39TDM>person begins sneezing.>24.3>33.0>31.791666666666668
+1Y09V>person drinking coffee from a cup.>4.5>10.3>30.833333333333332
+1Y09V>a person drinks from a cup of coffee.>4.5>10.3>30.833333333333332
+0M1X0>a person starts to undress.>0.0>10.1>29.25
+0M1X0>person put their clothes on a chair.>6.1>14.6>29.25
+0M1X0>a person is undressing by a chair.>0.0>10.1>29.25
+2G59W>person they put their phone away.>3.8>8.6>12.583333333333334
+2G59W>the person puts the cellphone down.>3.8>8.6>12.583333333333334
+G0BKH>person turn off the light in their closet.>7.8>24.3>35.625
+G0BKH>person they put a pillow into it.>21.9>30.7>35.625
+G0BKH>person turns off the closet light.>7.8>24.3>35.625
+SY1JE>the person walks out of the room through a doorway.>10.5>17.2>17.166666666666668
+QXI52>person watching television.>0.0>4.7>31.458333333333332
+OUH2U>person closes the door.>8.3>16.7>19.0
+OUH2U>person closes the door behind them.>8.3>16.7>19.0
+42MC3>person eats a sandwich.>18.5>25.0>23.708333333333332
+42MC3>person closes a door repeatedly.>0.0>3.2>23.708333333333332
+42MC3>person off repeatedly.>18.5>25.0>23.708333333333332
+42MC3>person turning a light  off.>9.2>16.0>23.708333333333332
+42MC3>person turns a light switch on.>10.5>16.8>23.708333333333332
+42MC3>person closing a door.>0.0>3.2>23.708333333333332
+BZ5AU>a person is dressing in front of the mirror.>1.2>16.0>30.458333333333332
+S6W5T>the person takes off their shoes.>17.2>27.0>26.416666666666668
+C3JAS>person start sneezing.>14.6>22.3>52.666666666666664
+JRSPH>a person sitting in a chair takes off their shoes.>0.0>14.2>31.708333333333332
+VWN13>person holds their phone as they grab the closet doorknob.>7.5>14.0>13.25
+VWN13>person open/close the door as if playing hide.>7.5>14.0>13.25
+B17UQ>a person is sitting on a sofa watching television.>1.0>11.8>31.541666666666668
+B17UQ>the person puts the remote on the table.>4.3>12.3>31.541666666666668
+8V97G>person opens a nearby door.>17.9>26.0>26.666666666666668
+H8BTR>person pours water into a cup.>17.4>23.8>29.875
+H8BTR>a person takes a blanket.>2.2>8.0>29.875
+H8BTR>another person is drinking a glass of water.>22.4>31.0>29.875
+5RY3S>the person holds a sandwich.>8.6>15.7>30.75
+CH0PM>person they turn the light off.>5.3>9.9>52.458333333333336
+CH0PM>person they take their shoes off.>21.9>30.3>52.458333333333336
+CH0PM>a person opens a door.>1.4>9.3>52.458333333333336
+CH0PM>person they open the closet door.>1.4>9.3>52.458333333333336
+CH0PM>person begin undressing.>8.8>24.0>52.458333333333336
+CH0PM>a person is undressing in the closet.>8.8>24.0>52.458333333333336
+7Z69Y>a person hold a bag in a closet.>20.9>29.7>56.625
+7Z69Y>a person gets dressed in a closet.>38.5>58.0>56.625
+7Z69Y>person starts dressing.>38.5>58.0>56.625
+7Z69Y>person sit down on a chair.>36.2>42.5>56.625
+7Z69Y>person sitting on a chair.>36.2>42.5>56.625
+6PYRZ>a person throws a pillow on the floor.>1.8>6.0>32.041666666666664
+6PYRZ>person holding a dish.>0.0>7.0>32.041666666666664
+6PYRZ>person sneezing unto a plate of food in a hallway.>9.1>23.0>32.041666666666664
+6PYRZ>a person is throwing a pillow.>1.8>6.0>32.041666666666664
+YH85Z>person takes out a bag of food.>15.4>25.1>31.625
+EGVGL>person look at a picture.>19.5>26.9>32.25
+EGVGL>person they open a bag.>17.5>23.0>32.25
+55V6Z>person putting dishes in a box.>2.2>11.0>30.125
+55V6Z>a person is watching a television.>16.5>31.0>30.125
+NB0S4>person puts a bag on a shelf in the wardrobe.>20.9>29.2>30.583333333333332
+NB0S4>another person puts something on a shelf.>20.9>29.2>30.583333333333332
+XDT45>a person awakens.>0.0>11.7>33.5
+937EW>person watches picture.>13.9>24.2>31.75
+937EW>a person is putting clothes in a closet.>0.0>9.0>31.75
+937EW>person puts clothes away.>0.0>9.0>31.75
+937EW>person takes dirty clothes away.>0.0>5.0>31.75
+B2NBR>a person runs back.>0.0>8.3>30.541666666666668
+B2NBR>a man is running through the hallway.>0.0>8.3>30.541666666666668
+50TLF>one person takes a bottle of medicine from a box.>4.2>10.0>29.458333333333332
+13IJA>the person throws the blanket on the floor.>5.9>10.9>31.083333333333332
+13IJA>the person is sitting down holding a blanket.>0.0>7.0>31.083333333333332
+RS9D9>person reads a book.>27.3>36.8>38.25
+RS9D9>person reading a book.>27.3>36.8>38.25
+RS9D9>a person sits on a chair.>1.1>6.4>38.25
+RS9D9>person sitting in a chair.>1.1>6.4>38.25
+ZPNW7>a person is walking through a doorway.>23.7>28.8>70.41666666666667
+ZPNW7>a person is snuggling with a pillow.>32.2>53.4>70.41666666666667
+4CV3F>person puts on a pair of shoes.>0.0>3.7>27.833333333333332
+4CV3F>a person puts their shoes on the floor.>0.0>3.7>27.833333333333332
+4CV3F>person puts the shoes on.>0.0>3.7>27.833333333333332
+4VODV>a person who is lying on the floor awakens.>0.0>15.6>35.208333333333336
+4VODV>person eating a sandwich out of the box.>29.9>36.0>35.208333333333336
+4VODV>the person began to undress.>21.2>29.1>35.208333333333336
+TNOBD>person eating lunch.>20.7>31.0>30.125
+8BA61>person eat a sandwich.>19.3>30.5>34.041666666666664
+8BA61>person eats a sandwich.>19.3>30.5>34.041666666666664
+8BA61>person eat a snack.>19.3>30.5>34.041666666666664
+8AZRX>person turn off the light.>28.5>33.8>32.666666666666664
+8AZRX>person throws some clothes in a bag.>15.3>23.2>32.666666666666664
+7ICIA>person closes the door.>8.8>16.5>27.291666666666668
+58VZI>person puts a pillow on the bench.>16.5>23.4>34.833333333333336
+58VZI>person drinking a glass of water.>0.8>14.0>34.833333333333336
+J6P6H>the person starts eating a sandwich.>9.5>17.4>21.625
+J6P6H>person eating a sandwich.>9.5>17.4>21.625
+J6P6H>the person stands up to turn off their light.>17.2>23.0>21.625
+WK5PL>a person is closing a closet door.>6.4>12.4>22.625
+WK5PL>person closing the door.>6.4>12.4>22.625
+HQUHP>person turns on the light.>9.7>16.7>31.75
+HQUHP>person turned on a light.>9.7>16.7>31.75
+HQUHP>person turns on a light.>9.7>16.7>31.75
+DM2HW>person takes a box.>10.0>17.9>20.916666666666668
+DM2HW>person they take a box.>10.0>17.9>20.916666666666668
+DM2HW>person turn off the light.>13.6>22.0>20.916666666666668

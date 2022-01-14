@@ -7,7 +7,7 @@ PyTorch implementation of Federated Video Moment Retrieval (FedVMR).
 
 1. Prepare feature files
 
-Download [feature.tar.gz](https://drive.google.com/file/d/1j4mVkXjKCgafW3ReNjZ2Rk6CKx0Fk_n5/view?usp=sharing) (33GB). 
+Download [feature.tar.gz](https://drive.google.com/drive/folders/1g51f7m2yGFNxRGo3mWOtBfZaYTAg9X4z?usp=sharing) (33GB). 
 After downloading the feature file, extract it to the `feature` directory under `fedvmr` directory:
 ```
 tar zxvf feature.tar.gz

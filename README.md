@@ -1,6 +1,35 @@
-# vmr_fl
-token_dir feature_dir对应的文件需要自己下载
+FedVMR
+=====
+PyTorch implementation of Federated Video Moment Retrieval (FedVMR). 
 
-baseline_train.py for 基本的vmr
+[TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval](https://arxiv.org/abs/2001.09099)
 
-baseline_train_fl.py for 加了联邦学习的vmr
+## Resources
+- Features: [TVR dataset](./data/)
+
+## Getting started
+### Prerequisites
+
+1. Prepare feature files
+
+Download [feature.tar.gz](https://drive.google.com/file/d/1j4mVkXjKCgafW3ReNjZ2Rk6CKx0Fk_n5/view?usp=sharing) (33GB). 
+After downloading the feature file, extract it to the `feature` directory under `fedvmr` directory:
+```
+tar zxvf feature.tar.gz
+```
+It contains I3D video features of Charades-STA (charades_i3d_rgb.hdf5), C3D video features of ActivityNet-Captions (sub_activitynet_v1-3.c3d.hdf5) and text features (6B.300d.npy). 
+
+2. Install dependencies.
+- Python 3.7
+- PyTorch 1.8.0
+- Cuda 11.1
+- nltk
+- tqdm
+- h5py
+- easydict
+
+### Running Code
+
+```
+python baseline_train_fvmr.py
+```

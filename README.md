@@ -2,11 +2,6 @@ FedVMR
 =====
 PyTorch implementation of Federated Video Moment Retrieval (FedVMR). 
 
-[TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval](https://arxiv.org/abs/2001.09099)
-
-## Resources
-- Features: [TVR dataset](./data/)
-
 ## Getting started
 ### Prerequisites
 

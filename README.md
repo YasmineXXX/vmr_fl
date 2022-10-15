@@ -26,5 +26,5 @@ It contains I3D video features of Charades-STA (charades_i3d_rgb.hdf5), C3D vide
 ### Running Code
 
 ```
-python baseline_train_fvmr.py
+python baseline_train_fl.py
 ```

@@ -47,6 +47,7 @@ class Permute(nn.Module):
   return x.permute(self.order)
 
 class VideoConv(nn.Module):
+    # model
     def __init__(self,config,**kwargs):
         self.v_dim = config.vdim
         self.s_dim= 300

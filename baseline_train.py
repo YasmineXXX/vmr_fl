@@ -78,6 +78,7 @@ def get_training_args():
 config = get_training_args()
 
 def my_collate_fn(batch):
+    # collect batch
     # input: a list of bsz dicts,
     # the structure of each one(batch) is:
     # 'feature_tensor': a tensor:

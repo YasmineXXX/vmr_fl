@@ -85,6 +85,7 @@ class LocalUpdate(object):
         return net.state_dict(), sum(epoch_loss) / len(epoch_loss)
 
     def my_collate_fn(self, batch):
+        # collect batch
         # input: a list of bsz dicts,
         # the structure of each one(batch) is:
         # 'feature_tensor': a tensor:

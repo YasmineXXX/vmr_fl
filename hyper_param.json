@@ -1,4 +1,3 @@
-# hyper-parameter setting
 {
     "backbone_channel_in_size": 1024,
     "hidden_size": 768,
